@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diptanuj Sarkar</title>
+    <link>https://students.iiserkol.ac.in/</link>
+    <description>Recent content on Diptanuj Sarkar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://students.iiserkol.ac.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://students.iiserkol.ac.in/archives/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://students.iiserkol.ac.in/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://students.iiserkol.ac.in/about/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://students.iiserkol.ac.in/about/</guid>
+      <description>I&amp;rsquo;m currently in my 2nd semester.
+I&amp;rsquo;m mostly interested in Physics and Mathematics, as is usual here at IISER-K. No surprises here.
+Aside from academics, I love tinkering with electronics, (trying) to play my guitar, programming, and quizzing. I love listening to music, and I will listen to anything obscure enough to make me feel like a special snowflake. I use Linux (surprisingly, not Arch, btw) as my daily driver, and I go around evangelising it.</description>
+    </item>
+    
+    <item>
+      <title>Get Started!</title>
+      <link>https://students.iiserkol.ac.in/electronics/get-started/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://students.iiserkol.ac.in/electronics/get-started/</guid>
+      <description>A collection of online (and offline) resources that, in my opinion, are ideal for anyone who wishes to start tinkering. The list is continually being updated as I encounter good resources out in the wild.</description>
+    </item>
+    
+  </channel>
+</rss>
