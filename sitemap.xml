@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://students.iiserkol.ac.in/</loc>
+    <loc>/</loc>
     <lastmod>2023-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://students.iiserkol.ac.in/archives/</loc>
+    <loc>/archives/</loc>
     <lastmod>2023-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://students.iiserkol.ac.in/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2023-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://students.iiserkol.ac.in/electronics/get-started/</loc>
+    <loc>/electronics/get-started/</loc>
     <lastmod>2023-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://students.iiserkol.ac.in/electronics/</loc>
+    <loc>/electronics/</loc>
     <lastmod>2023-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://students.iiserkol.ac.in/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://students.iiserkol.ac.in/tags/index/</loc>
+    <loc>/tags/index/</loc>
   </url><url>
-    <loc>https://students.iiserkol.ac.in/post/</loc>
+    <loc>/post/</loc>
   </url><url>
-    <loc>https://students.iiserkol.ac.in/series/</loc>
+    <loc>/series/</loc>
   </url><url>
-    <loc>https://students.iiserkol.ac.in/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
