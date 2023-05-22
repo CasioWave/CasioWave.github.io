@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EXHIBITION! on Diptanuj Sarkar</title>
+    <title>Exhibitions on Diptanuj Sarkar</title>
     <link>https://casiowave.github.io/exhibition/</link>
-    <description>Recent content in EXHIBITION! on Diptanuj Sarkar</description>
+    <description>Recent content in Exhibitions on Diptanuj Sarkar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 18 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://casiowave.github.io/exhibition/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://casiowave.github.io/exhibition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://casiowave.github.io/exhibition/advice-on-how-to-demonstrate-and-display-exhibits/</link>
@@ -22,7 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://casiowave.github.io/exhibition/bad-examples/</guid>
-      <description></description>
+      <description>TEST TEST TEST</description>
     </item>
     
     <item>
@@ -59,7 +58,8 @@ Topics that should be touched - A brief introduction of IISER-K, The exhibition,
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://casiowave.github.io/exhibition/faq/</guid>
-      <description>Outreach themed FAQs What is an IISER? etc, iiseradmission type Registration Procedure themed FAQs Where and when can a school register for the science exhibition? What do we do if we missed the registration process? When does the registration process begin? When does the registration process end? What is the eligibility criteria for participating teams? What are the categories for the exhibition? What will happen if the school registered but unable to participate due to some issue?</description>
+      <description>List of some FAQs that I have cooked up.
+Outreach themed FAQs What is an IISER? etc, iiseradmission type Registration Procedure themed FAQs Where and when can a school register for the science exhibition? What do we do if we missed the registration process? When does the registration process begin? When does the registration process end? What is the eligibility criteria for participating teams? What are the categories for the exhibition?</description>
     </item>
     
     <item>
@@ -86,7 +86,8 @@ Topics that should be touched - A brief introduction of IISER-K, The exhibition,
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://casiowave.github.io/exhibition/get-credentials-login-system-/</guid>
-      <description> The login and submission portal is crucial in this case. The screening requires that a foolproof (and secure) means of uploading submissions exist. This needs to be decided on in conversation with Web Dev team Important features System for storing and indexing candidate contact info. Allowing candidates to upload Documents (Write Up, Verification, etc) Allowing candidates to upload videos (Youtube links? Discuss) </description>
+      <description>There needs to be some online system to manage this stuff otherwise it will get out of hand very quick.
+The login and submission portal is crucial in this case. The screening requires that a foolproof (and secure) means of uploading submissions exist. This needs to be decided on in conversation with Web Dev team Important features System for storing and indexing candidate contact info. Allowing candidates to upload Documents (Write Up, Verification, etc) Allowing candidates to upload videos (Youtube links?</description>
     </item>
     
     <item>
@@ -96,6 +97,15 @@ Topics that should be touched - A brief introduction of IISER-K, The exhibition,
       
       <guid>https://casiowave.github.io/exhibition/good-examples/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://casiowave.github.io/exhibition/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/exhibition/index/</guid>
+      <description>Preliminary draft</description>
     </item>
     
     <item>
@@ -124,8 +134,7 @@ Arena requirements Food for students Seating arrangements for teachers and paren
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://casiowave.github.io/exhibition/online-selection-of-the-projects-for-exhibition/</guid>
-      <description>Selection will be done by volunteers from Exhibition working group. Most of the selection work will essentially involve weeding out low quality projects. Mostly easy to do, a few hours a week ought to do it.
-When we boil it down to the last few good projects, we can ask Profs for their opinions for final selections. (Reason: By that point we will hopefully have the judge panel finalised).
+      <description>Selection will be done by volunteers from Exhibition working group. Most of the selection work will essentially involve weeding out low quality projects. Mostly easy to do, a few hours a week ought to do it. When we boil it down to the last few good projects, we can ask Profs for their opinions for final selections. (Reason: By that point we will hopefully have the judge panel finalised).
 Important factors - Create a transparent method of selection.</description>
     </item>
     
@@ -144,14 +153,7 @@ Important factors - Create a transparent method of selection.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://casiowave.github.io/exhibition/preliminary-draft/</guid>
-      <description>How the process should go for the participants -&amp;gt; STEP 1:
-1.1 Register
-1.2 Payment of Fees
-1.3 Get credentials - login system (?)
-STEP 2: Project Dev and Submission
-2.1 Project Ideation - Identify theme, explore topics, develop hypothesis, model in discussion with Mentor Teacher
-2.2 Development of Project - Posters, Model, Presentation, surveys, evidence, etc
-2.3 Project Submission - Upload Project details, themes, description, URL to a video demonstrating the project, and evidence.</description>
+      <description>How the process should go for the participants -&amp;gt; STEP 1: 1.1 Register 1.2 Payment of Fees 1.3 Get credentials - login system (?) STEP 2: Project Dev and Submission 2.1 Project Ideation - Identify theme, explore topics, develop hypothesis, model in discussion with Mentor Teacher 2.2 Development of Project - Posters, Model, Presentation, surveys, evidence, etc 2.3 Project Submission - Upload Project details, themes, description, URL to a video demonstrating the project, and evidence.</description>
     </item>
     
     <item>
@@ -188,7 +190,8 @@ We will provide content to teams that outline what kind of exhibitions we are lo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://casiowave.github.io/exhibition/register/</guid>
-      <description>Registration of the participants must be done early. Schedule (Approx) Registration stays open for about 2 months (Reason: Sometimes teams have to come up the project before they actually register - this will help) - OPEN IN NOVEMBER Screening will take about 1 month (Reason: Expect a substantial amount of registrations - many of them will not be of meaningful quality. Must be weeded down to 50-60 (Abhra&amp;rsquo;s estimate of max teams of 3)) - JANUARY Selection of teams must be declared about 2-3 weeks in advance of exhibition dates (Reason: Good projects often have a lot of last moment ideas + If there are out-of-station teams, they need time to plan commute and stay) Exhibition will preferably be over 2-3 days minimum, last day for award ceremony (Reason: Increases attendance to fest, allows judges to review in detail without a rush) Note: RN Tagore needs to be booked for award ceremony on last day.</description>
+      <description>Registration of the participants must be done early.
+Schedule (Approx) Registration stays open for about 2 months (Reason: Sometimes teams have to come up the project before they actually register - this will help) - OPEN IN NOVEMBER Screening will take about 1 month (Reason: Expect a substantial amount of registrations - many of them will not be of meaningful quality. Must be weeded down to 50-60 (Abhra&amp;rsquo;s estimate of max teams of 3)) - JANUARY Selection of teams must be declared about 2-3 weeks in advance of exhibition dates (Reason: Good projects often have a lot of last moment ideas + If there are out-of-station teams, they need time to plan commute and stay) Exhibition will preferably be over 2-3 days minimum, last day for award ceremony (Reason: Increases attendance to fest, allows judges to review in detail without a rush) Note: RN Tagore needs to be booked for award ceremony on last day.</description>
     </item>
     
     <item>
@@ -197,12 +200,9 @@ We will provide content to teams that outline what kind of exhibitions we are lo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://casiowave.github.io/exhibition/requirement-form-preliminary-for-finance/</guid>
-      <description>Basic requirements Table - per team
-Must be stable - exhibits CAN NOT be put at risk
-3 chairs (max) - per team
-Optional 4th for teacher - I do not prefer if as it is best if the students are unaided in the exhibition itself. But depends on what seating arrangements have been made.
-Tablecloth - per team
-Essential for proper display - might seem decorative, but quite necessary.</description>
+      <description>Basic requirements Table - per team Must be stable - exhibits CAN NOT be put at risk
+3 chairs (max) - per team Optional 4th for teacher - I do not prefer if as it is best if the students are unaided in the exhibition itself. But depends on what seating arrangements have been made.
+Tablecloth - per team Essential for proper display - might seem decorative, but quite necessary.</description>
     </item>
     
     <item>
