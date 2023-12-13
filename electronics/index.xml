@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electrons are weird on Diptanuj Sarkar</title>
+    <link>https://casiowave.github.io/electronics/</link>
+    <description>Recent content in Electrons are weird on Diptanuj Sarkar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-in</language>
+    <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://casiowave.github.io/electronics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get Started!</title>
+      <link>https://casiowave.github.io/electronics/get-started/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://casiowave.github.io/electronics/get-started/</guid>
+      <description>General Websites Reference for guided tutorials, theory, project ideas, and news pertinent to the hobbyist electronics community.
+Electronics-Tutorial : Simple, clean tutorial site. The topics are not arranged in an ideal sequence, in my opinion, but it is still a great first reference.
+Sparkfun Learn : A pretty exhaustive list of tutorials (and in general, information) regarding the myriad modules you can get for the Arduino ecosystem.
+All About Circuits : Framed like a textbook (technically, it is one), it is an excellent learning resource for beginners.</description>
+    </item>
+  </channel>
+</rss>

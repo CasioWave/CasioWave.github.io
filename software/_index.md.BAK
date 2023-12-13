@@ -1,0 +1,9 @@
++++
+author = "Diptanuj Sarkar"
+date = "2023-03-21"
+title = "Software"
++++
+![RICE!](/images/rice.jpeg)
+
+After years of aimless distro-hopping, I have finally settled on using [Fedora Workstation](https://getfedora.org/) with [qtile](http://www.qtile.org/) as my DE - I will probably be using this setup until GNU Hurd Stable release drops (-_-).
+This rice exists due to DistroTube's well documented [dotfiles](https://gitlab.com/dwt1/dotfiles), and my ongoing obsession with [pixel art](https://www.pixilart.com/casiowave).

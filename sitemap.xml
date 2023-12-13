@@ -2,9 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://casiowave.github.io/</loc>
+    <lastmod>2023-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://casiowave.github.io/quiz/</loc>
+    <lastmod>2023-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://casiowave.github.io/quiz/tech-quiz-25-03-2023/</loc>
+    <lastmod>2023-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://casiowave.github.io/about/</loc>
+    <lastmod>2023-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://casiowave.github.io/electronics/get-started/</loc>
+    <lastmod>2023-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://casiowave.github.io/electronics/</loc>
+    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://casiowave.github.io/software/</loc>
+    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://casiowave.github.io/categories/</loc>
   </url><url>
-    <loc>https://casiowave.github.io/</loc>
+    <loc>https://casiowave.github.io/tags/index/</loc>
+  </url><url>
+    <loc>https://casiowave.github.io/post/</loc>
   </url><url>
     <loc>https://casiowave.github.io/tags/</loc>
   </url>

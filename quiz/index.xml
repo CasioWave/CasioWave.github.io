@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knowing random stuff is nice on Diptanuj Sarkar</title>
+    <link>https://casiowave.github.io/quiz/</link>
+    <description>Recent content in Knowing random stuff is nice on Diptanuj Sarkar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-in</language>
+    <lastBuildDate>Sun, 26 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://casiowave.github.io/quiz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech Quiz - 25-03-2023</title>
+      <link>https://casiowave.github.io/quiz/tech-quiz-25-03-2023/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://casiowave.github.io/quiz/tech-quiz-25-03-2023/</guid>
+      <description>Made in collaboration with Abhratanu Ray and Sabarno Saha.
+The very first quiz set we made for the Quiz Club.</description>
+    </item>
+  </channel>
+</rss>
