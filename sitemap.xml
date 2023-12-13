@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost/blog/</loc>
+    <loc>casiowave.github.io/blog/</loc>
   </url><url>
-    <loc>localhost/</loc>
+    <loc>casiowave.github.io/</loc>
   </url><url>
-    <loc>localhost/series/</loc>
+    <loc>casiowave.github.io/series/</loc>
   </url><url>
-    <loc>localhost/tags/</loc>
+    <loc>casiowave.github.io/tags/</loc>
   </url>
 </urlset>
