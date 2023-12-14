@@ -6,12 +6,20 @@
     <description>Recent content in Tags on Diptanuj Sarkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-in</language>
+    <lastBuildDate>Sun, 26 Mar 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://casiowave.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>index</title>
-      <link>https://casiowave.github.io/tags/index/</link>
+      <title>hobby</title>
+      <link>https://casiowave.github.io/tags/hobby/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://casiowave.github.io/tags/hobby/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>academic</title>
+      <link>https://casiowave.github.io/tags/academic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://casiowave.github.io/tags/index/</guid>
+      <guid>https://casiowave.github.io/tags/academic/</guid>
       <description></description>
     </item>
   </channel>
