@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en-in"><head>
+    <title>Diptanuj Sarkar</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" integrity="sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI+WdtXRGWt2kTvGFasHpSy3SV" crossorigin="anonymous">
+
+
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js" integrity="sha384-XjKyOOlGwcjNTAIQHIpgOno0Hl1YQqzUOEleOLALmuqehneUG+vnGctmUb0ZY0l8" crossorigin="anonymous"></script>
+
+
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="theme-color" content="#000084" />
+    <link rel="icon" href="https://casiowave.github.io/favicon.ico">
+    <link rel="canonical" href="https://casiowave.github.io">
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+            delimiters: [
+                {left: "$$", right: "$$", display: true},
+                {left: "$", right: "$", display: false}
+            ]
+        });
+    });
+    </script>
+
+    
+    
+</head>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+        <div class="container">
+            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"></button>
+            <a class="brand" href="https://casiowave.github.io">Diptanuj Sarkar</a>
+            <div class="nav-collapse collapse">
+                <ul class="nav">
+                    
+                    
+                        
+                            <li>
+                                <a href="/about/">
+                                    
+                                    <span>About</span>
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a href="/notes/">
+                                    
+                                    <span>Notes</span>
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a href="/physics/">
+                                    
+                                    <span>Physics</span>
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a href="/electronics/">
+                                    
+                                    <span>Electronics</span>
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a href="/quiz/">
+                                    
+                                    <span>Quiz</span>
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a href="/software/">
+                                    
+                                    <span>Software</span>
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a href="/music/">
+                                    
+                                    <span>Music</span>
+                                </a>
+                            </li>
+                        
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav><div id="content" class="container">
+
+<div class="row-fluid navmargin">
+    <div class="page-header">
+        <h1>Euler-Lagrange equations: A derivation - Sat, Jan 13, 2024</h1>
+    </div>
+    <p class="lead">This is me trying out KaTeX on the site</p>
+    <h1 id="introduction">Introduction</h1>
+<p>We start off by taking as a prototype the simple Newtonian scheme of a point particle of mass $m$ moving along the x-axis under a potential field $V(x)$.</p>
+<p>According to Newton&rsquo;s Second Law of motion,
+$$
+m \frac{d^2 x}{dt^2} = - \frac{dV}{dx}
+$$</p>
+<p>If we are given the position and the velocity of this particle at some initial time, i.e. $x(t_i)$ and $\dot{x}(t_i)$, then it is possible for us to compute the classical trajectory of the particle $x_{cl}(t)$ as follows
+$$
+x_{cl}(t+\Delta t) = x(t_i) + \dot{x}(t_i) \Delta t
+$$</p>
+<p>We can keep following the same iteration scheme to calculate the position at $t+2\Delta t$, $t+3\Delta t$, and so on.</p>
+<p>Since the equation of motion is second order in time, there are two pieces of data (namely, $x(t_i)$ and $\dot{x}(t_i)$) that are required to specify a unique $x_{cl}(t)$. An equivalent way to doing the same thing is to specify an initial point $(x_i,t_i)$ and a final point $(x_f,t_f)$ (Why?).</p>
+<p>In the Lagrangian formalism, the same problem is posed in this way: <strong>Given the initial and the final point, what is it that distinguishes the actual classical trajectory joining these point from the infinite other trajectories that join these two points?</strong>
+The answer to this lies in the following points:</p>
+<ul>
+<li>
+<p>Define a function $\mathbf{L}$, called the <strong>Lagrangian</strong> which is given by,
+$$
+\mathbf{L} = T - V
+$$
+$T$ and $V$ being the kinetic and potential energies of the particle.
+Thus, $\mathbf{L} = \mathbf{L}(x,\dot{x})$. Note that we assume the absence of $t$ dependence by considering a potential field that is not time-dependent.</p>
+</li>
+<li>
+<p>For each path $x(t)$ connecting $(x_i,t_i)$ and $(x_f,t_f)$, calculate the <strong>action</strong>, defined by,
+$$
+S[x(t)] = \int_{t_i}^{t_f} \mathbf{L}(x,\dot{x}) dt
+$$
+There are square brackets because we want to remember that the argument of S is the <strong>entire path</strong> or the <strong>entire function</strong> $x(t)$, not just the value of the function at some time. $S$ is thus also called a <strong>functional</strong>.</p>
+</li>
+<li>
+<p><strong>Principle of Least Action</strong>: The classical path is the one on which $S$ is a <em>minimum</em> (Actually, it is only required that it be an extremum. The name is merely customary).</p>
+</li>
+</ul>
+<p>Now, we verify whether this principle gives us back Newton&rsquo;s Second Law.</p>
+<h2 id="a-multivariable-detour">A multivariable detour</h2>
+<p>Since $S$ is a function of some other function $x(t)$, it is really just a multivariable function of $n$ variables as $n\rightarrow \infty$.
+This is due to the fact that the function $x(t)$ actually specifies an infinite number of values $x(t_i), \dots , x(t) , \dots , x(t_f)$ - one for each instant in time $t$ in the specified interval.
+We will deal with the entire minimum (actually, extremum) situation of the action by generalising how we deal with it in n variables.
+Let us define a function,
+$$
+f = f(x_1, \dots , x_n) = f(\vec{x})
+$$
+The minimum of this function, say, $\vec{x^0}$ is characterised by the fact that if we move away from it by a small amount $\vec{\eta}$ in any direction, the first order change in $f$ vanishes.
+Using the Taylor expansion,
+$$
+f(\vec{x^0}+\vec{\eta}) = f(\vec{x^0}) + \sum_{i=1}^{n} \frac{\partial f}{\partial x_i} \bigg\rvert_{\vec{x^0}} \eta_i + \text{ higher order terms in } \eta
+$$
+then, we get,
+$$
+\delta f^{(1)} = \sum_{i=1}^{n} \frac{\partial f}{\partial x_i} \bigg\rvert_{\vec{x^0}} \eta_i = 0
+$$
+as <strong>the first order change vanishes</strong>.
+From this, we can see that if we choose $\vec{\eta}$ such that it is along the ith direction, <strong>every first order partial derivative of the function vanishes at</strong> $\vec{x^0}$.
+$$
+\frac{\partial f}{\partial x_i} \bigg\rvert_{\vec{x^0}} = 0 \quad , i = 1,\dots , n
+$$</p>
+<h2 id="coming-back-to-the-action">Coming back to the action</h2>
+<p>We now use the property that we deduced to arrive at the extremum of $S$. We assume that $x_{cl}(t)$ is the path of least action (as per the principle), and that $x_{cl}(t) + \eta(t)$ is a &ldquo;nearby&rdquo; path.
+As all the paths have to coincide at the initial and the final points, we get the condition,
+$$
+\eta(t_i) = \eta(t_f) = 0
+$$
+So now we get to the main attraction,
+$$
+S[x_{cl}(t) + \eta(t)] = \int_{t_i}^{t_f} \mathbf{L} (x_{cl}(t) + \eta(t),\dot{x}_{cl}(t) + \dot{\eta}(t)) dt
+$$</p>
+<p>Now, expanding the Lagrangian to its Taylor series expression,</p>
+<p>$$
+\Rightarrow S[x_{cl}(t) + \eta(t)] = \int_{t_i}^{t_f} \bigg[ \mathbf{L} ( x_{cl}(t), \dot{x}_{cl}(t) ) + \frac{\partial \mathbf{L}}{\partial x(t)} \bigg \vert _{x _{cl} } \cdot \eta(t) + \frac{\partial \mathbf{L}}{\partial \dot{x}(t)} \bigg \vert _{x _{cl} } \cdot \dot{\eta}(t) + \cdots \bigg] dt
+$$</p>
+<p>$$
+\Rightarrow S[x_{cl}(t) + \eta(t)] = S[x_{cl}(t)] + \delta S^{(1)} + \text{ higher order terms }
+$$
+Since this is the case with infinite variables, the sum involving the first order partial derivatives of the action has been converted into an integral.
+Using the fact that we deduced earlier regarding the first order change going to zero, we can say,
+$$
+0 = \delta S^{(1)} = \bigg[ \frac{\partial \mathbf{L}}{\partial x(t)} \bigg \vert _{x _{cl} } \cdot \eta(t) + \frac{\partial \mathbf{L}}{\partial \dot{x}(t)} \bigg \vert _{x _{cl} } \cdot \dot{\eta}(t) \bigg] dt
+$$
+If we integrate the second term by parts with the partial derivative as the first function and the $\dot{\eta}$ term as the second function (Why? It has $\dot{\eta}(t)$, and we know that $\eta$ cancels out at the ends) we get:
+$$
+\frac{\partial \mathbf{L}}{\partial \dot{x}(t)} \bigg \vert _{x _{cl} } \cdot \eta(t) \bigg \vert _{t_i}^{t_f} - \int _{t_i} ^{t_f} \bigg[ \frac{d}{dt} \frac{\partial \mathbf{L}}{\partial \dot{x}(t)} \bigg] _{x _{cl} } \cdot \eta(t) dt
+$$
+As mentioned before, the first term here vanishes.
+So, we get:
+$$
+0 = \delta S^{(1)} = \int _{t_i} ^{t_f} \bigg[ \frac{\partial \mathbf{L}}{\partial x(t)} - \frac{d}{dt} \frac{\partial \mathbf{L}}{\partial \dot{x}(t)} \bigg] _{ x _{cl} } \cdot \eta(t) dt
+$$
+Here, the integral and the stuff inside the bracket acts like the infinite analogue of the sum of all the first order partial derivatives of the multivariable function, i.e. the discrete variable $\eta$ is replaced by $\eta(t)$, the sum over $i$ is replaced by the integral over &amp;t&amp;, and $\frac{\partial f}{\partial x_i}$ is replaced by $\frac{\partial \mathbf{L}}{\partial x(t)} - \frac{d}{dt} \frac{\partial \mathbf{L}}{\partial \dot{x}(t)}$.
+Since $\eta(t)$ is arbitrary, we may extract the analogue of the finite case:
+$$
+\bigg[ \frac{\partial \mathbf{L}}{\partial x(t)} - \frac{d}{dt} \frac{\partial \mathbf{L}}{\partial \dot{x}(t)} \bigg] _{x _{cl} (t) } = 0 \quad \text{ for } t_i \leq t \leq t_f
+$$
+This is the famous <strong>Euler Lagrange equation</strong>.</p>
+<h2 id="does-this-give-back-nlm">Does this give back NLM?</h2>
+<p>If we feed into the equation,
+$$
+\mathbf{L} = T - V
+$$</p>
+<p>$$
+T = \frac{1}{2} m \dot{x} ^2
+$$</p>
+<p>$$
+V = V(x)
+$$</p>
+<p>Then we get,
+$$
+\frac{\partial \mathbf{L}}{\partial \dot{x}} = \frac{\partial T}{\partial \dot{x}} = m \dot{x}
+$$
+and
+$$
+\frac{\partial \mathbf{L}}{\partial x} = - \frac{\partial V}{\partial x}
+$$
+and so the Euler-Lagrange equation becomes Newton&rsquo;s Second Law for this case,
+$$
+\frac{d}{dt} (m \dot{x}) = - \frac{\partial V}{\partial x}
+$$
+<em>and we are done!</em></p>
+<p><img src="/images/doggo.png" alt="doggo"></p>
+
+    <h4><a href="https://casiowave.github.io"></a></h4>
+</div>
+
+
+        </div><footer class="container">
+    <hr class="soften">
+    <p>
+&copy; 
+<a href="https://casiowave.github.io" target="_blank">
+    Diptanuj Sarkar
+</a>
+<span id="thisyear">2024</span>
+
+
+</p>
+    <p class="text-center">
+        
+        
+        <a href="https://www.linkedin.com/in/diptanuj/">Linkedin</a> 
+        <a href="https://github.com/CasioWave">GitHub</a> 
+        
+    </p>
+</footer>
+
+</body><link rel="stylesheet" href="/css/bootstrap.css">
+<link rel="stylesheet" href="/css/bootstrap-responsive.css">
+<link rel="stylesheet" href="/css/style.css">
+
+<script src="/js/jquery.js"></script>
+<script src="/js/bootstrap-386.js"></script>
+<script src="/js/bootstrap-transition.js"></script>
+<script src="/js/bootstrap-alert.js"></script>
+<script src="/js/bootstrap-modal.js"></script>
+<script src="/js/bootstrap-dropdown.js"></script>
+<script src="/js/bootstrap-scrollspy.js"></script>
+<script src="/js/bootstrap-tab.js"></script>
+<script src="/js/bootstrap-tooltip.js"></script>
+<script src="/js/bootstrap-popover.js"></script>
+<script src="/js/bootstrap-button.js"></script>
+<script src="/js/bootstrap-collapse.js"></script>
+<script src="/js/bootstrap-carousel.js"></script>
+<script src="/js/bootstrap-typeahead.js"></script>
+<script src="/js/bootstrap-affix.js"></script>
+<script>
+    _386 = { 
+        fastLoad: false ,
+        onePass: true , 
+        speedFactor: 1 
+    };
+
+    
+    function ThisYear() {
+        document.getElementById('thisyear').innerHTML = new Date().getFullYear();
+    };
+</script>
+</html>

@@ -9,6 +9,13 @@
     <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://casiowave.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Euler-Lagrange equations: A derivation</title>
+      <link>https://casiowave.github.io/physics/euler-lagrange/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://casiowave.github.io/physics/euler-lagrange/</guid>
+      <description>Introduction We start off by taking as a prototype the simple Newtonian scheme of a point particle of mass $m$ moving along the x-axis under a potential field $V(x)$.&#xA;According to Newton&amp;rsquo;s Second Law of motion, $$ m \frac{d^2 x}{dt^2} = - \frac{dV}{dx} $$&#xA;If we are given the position and the velocity of this particle at some initial time, i.e. $x(t_i)$ and $\dot{x}(t_i)$, then it is possible for us to compute the classical trajectory of the particle $x_{cl}(t)$ as follows $$ x_{cl}(t+\Delta t) = x(t_i) + \dot{x}(t_i) \Delta t $$</description>
+    </item>
+    <item>
       <title>Tech Quiz - 25-03-2023</title>
       <link>https://casiowave.github.io/quiz/tech-quiz-25-03-2023/</link>
       <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
