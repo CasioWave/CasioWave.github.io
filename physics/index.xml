@@ -6,8 +6,15 @@
     <description>Recent content in Bubbles on Diptanuj Sarkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-in</language>
-    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://casiowave.github.io/physics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some Mathematical Methods notes for QM</title>
+      <link>https://casiowave.github.io/physics/qmech-mathmethods/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://casiowave.github.io/physics/qmech-mathmethods/</guid>
+      <description>Here are some handwritten notes that I took while working through chapter 1 of Shankar&amp;rsquo;s Principles of Quantum Mechanics. Hope this is of use.&#xA;Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+    </item>
     <item>
       <title>Euler-Lagrange equations: A derivation</title>
       <link>https://casiowave.github.io/physics/euler-lagrange/</link>
