@@ -6,8 +6,15 @@
     <description>Recent content on Diptanuj Sarkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-in</language>
-    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://casiowave.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Semester 3</title>
+      <link>https://casiowave.github.io/notes/semester-3/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://casiowave.github.io/notes/semester-3/</guid>
+      <description>Here are some of the lectures notes that I took in Semester 3.&#xA;PH2101: Waves and Oscillations (Credits to Adrika and Piyush for filling in the parts that I missed) </description>
+    </item>
     <item>
       <title>Some Mathematical Methods notes for QM</title>
       <link>https://casiowave.github.io/physics/qmech-mathmethods/</link>
