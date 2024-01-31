@@ -247,13 +247,13 @@ body {
 }
 
 a {
-  color: turquoise;
+  color: rgb(28, 97, 90);
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: turquoise;
+  color: rgb(43, 151, 140);
   background: olive;
 }
 
