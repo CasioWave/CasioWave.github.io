@@ -240,6 +240,7 @@ body {
   height: 100vh;
   background-attachment: fixed;
   background-repeat: no-repeat;
+  opacity: 1;
 }
 
 a {
