@@ -240,7 +240,6 @@ body {
   height: 100vh;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  opacity: 0.7;
 }
 
 a {
@@ -619,7 +618,7 @@ a:focus {
 }
 
 .container {
-  margin-left: 20px;
+  margin: 0 auto;
   *zoom: 1;
 }
 
