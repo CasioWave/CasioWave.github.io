@@ -230,12 +230,12 @@ textarea {
 }
 
 body {
-  margin: 10;
+  margin: 0;
   font-family: DOS, Monaco, Menlo, Consolas, "Courier New", monospace;
   font-size: 18px;
   line-height: 20px;
   color: #bbbbbb;
-  background-image: url("/images/background.jpg");
+  background-image: url("/images/pxfuel.jpg");
   background-size: cover;
   height: 100vh;
   background-attachment: fixed;
