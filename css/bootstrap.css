@@ -247,14 +247,14 @@ body {
 }
 
 a {
-  color: #fefe54;
+  color: turquoise;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #fefe54;
-  background: #aa5500;
+  color: turquoise;
+  background: olive;
 }
 
 .img-rounded {
@@ -673,8 +673,8 @@ p {
   padding: 9px 14px 9px 14px;
   margin: 9px 4px 9px 4px;
   font-size: 18px;
-  color: #ffffff;
-  border: 2px solid #bbbbbb;
+  color: teal;
+  border: 2px solid olive;
 }
 
 small {
@@ -683,12 +683,12 @@ small {
 
 strong {
   font-weight: normal;
-  color: #ffffff;
+  color: teal;
 }
 
 em {
   font-weight: normal;
-  color: #ffffff;
+  color: teal;
 }
 
 cite {
