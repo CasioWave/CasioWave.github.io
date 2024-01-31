@@ -394,7 +394,6 @@ a:focus {
 .row-fluid {
   width: 100%;
   *zoom: 1;
-  margin: 0 auto;
 }
 
 .row-fluid:before,
@@ -619,7 +618,7 @@ a:focus {
 }
 
 .container {
-  margin: 0 auto;
+  margin: auto auto;
   display: flex;
   *zoom: 1;
 }
