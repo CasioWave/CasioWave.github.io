@@ -240,7 +240,7 @@ body {
   height: 100vh;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  opacity: 0.8;
+  opacity: 0.7;
 }
 
 a {
@@ -394,6 +394,7 @@ a:focus {
 .row-fluid {
   width: 100%;
   *zoom: 1;
+  margin: 0 auto;
 }
 
 .row-fluid:before,
