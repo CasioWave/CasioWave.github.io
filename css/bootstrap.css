@@ -235,7 +235,9 @@ body {
   font-size: 18px;
   line-height: 20px;
   color: #bbbbbb;
-  background-image: url("/images/sr231d664e75c07.png");
+  background-image: url("/images/test.gif");
+  background-size: cover;
+  height: 100vh;
 }
 
 a {
