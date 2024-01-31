@@ -234,8 +234,8 @@ body {
   font-family: DOS, Monaco, Menlo, Consolas, "Courier New", monospace;
   font-size: 18px;
   line-height: 20px;
-  color: #e2e2e2;
-  background-image: url("/images/pxfuel.jpg");
+  color: #131313;
+  background-image: url("/images/background.jpg");
   background-size: cover;
   height: 100vh;
   background-attachment: fixed;
