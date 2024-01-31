@@ -622,6 +622,8 @@ a:focus {
   margin: auto auto;
   display: flex;
   *zoom: 1;
+  background-color: black;
+  background: transparent;
 }
 
 .container:before,
