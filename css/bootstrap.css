@@ -626,7 +626,7 @@ a:focus {
   display: flex;
   *zoom: 1;
   background-color: #ffffff62;
-  box-shadow: 0 0 5px 10px #ffffff62;
+  box-shadow: 0 0 10px 15px #ffffff62;
 }
 
 .container:before,
