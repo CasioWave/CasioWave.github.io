@@ -394,11 +394,12 @@ a:focus {
 .row-fluid {
   width: 100%;
   *zoom: 1;
+  margin: auto auto;
 }
 
 .row-fluid:before,
 .row-fluid:after {
-  display: table;
+  display: flex;
   line-height: 0;
   content: "";
 }
@@ -408,7 +409,7 @@ a:focus {
 }
 
 .row-fluid [class*="span"] {
-  display: block;
+  display: flex;
   float: left;
   width: 100%;
   min-height: 20px;
