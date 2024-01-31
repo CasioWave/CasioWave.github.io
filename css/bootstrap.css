@@ -620,12 +620,13 @@ a:focus {
 
 .container {
   margin: 0 auto;
+  display: flex;
   *zoom: 1;
 }
 
 .container:before,
 .container:after {
-  display: table;
+  display: flex;
   line-height: 0;
   content: "";
 }
