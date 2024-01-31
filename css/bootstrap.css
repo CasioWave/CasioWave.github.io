@@ -235,7 +235,7 @@ body {
   font-size: 18px;
   line-height: 20px;
   color: #000000;
-  background-image: url("/images/background.jpg");
+  background-image: url("/images/backflip.jpg");
   background-size: cover;
   height: 100vh;
   background-attachment: fixed;
@@ -622,8 +622,8 @@ a:focus {
   margin: auto auto;
   display: flex;
   *zoom: 1;
-  background-color: #ffffff38;
-  box-shadow: 0 0 5px 10px #ffffff38;
+  background-color: #ffffff62;
+  box-shadow: 0 0 5px 10px #ffffff62;
 }
 
 .container:before,
