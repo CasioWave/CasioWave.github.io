@@ -234,12 +234,13 @@ body {
   font-family: DOS, Monaco, Menlo, Consolas, "Courier New", monospace;
   font-size: 18px;
   line-height: 20px;
-  color: #bbbbbb;
+  color: #e2e2e2;
   background-image: url("/images/pxfuel.jpg");
   background-size: cover;
   height: 100vh;
   background-attachment: fixed;
   background-repeat: no-repeat;
+  opacity: 0.8;
 }
 
 a {
