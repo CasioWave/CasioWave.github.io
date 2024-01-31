@@ -237,7 +237,6 @@ body {
   color: #bbbbbb;
   background-image: url("/images/background.jpg");
   background-size: cover;
-  height: 100vh;
 }
 
 a {
