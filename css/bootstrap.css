@@ -171,7 +171,7 @@ textarea {
 
 @media print {
   * {
-    color: #000 !important;
+    color: #000000 !important;
     text-shadow: none !important;
     background: transparent !important;
     box-shadow: none !important;
@@ -235,7 +235,7 @@ body {
   font-size: 18px;
   line-height: 20px;
   color: #bbbbbb;
-  background-color: #000000;
+  background-color: #003375;
 }
 
 a {
@@ -846,7 +846,7 @@ h4 small {
 .page-header {
   padding: 20px 20px;
   margin: 20px 0 20px;
-  background: #00aaaa;
+  background: teal;
 }
 
 .page-header h1 {
