@@ -623,7 +623,6 @@ a:focus {
   display: flex;
   *zoom: 1;
   background-color: black;
-  background: transparent;
 }
 
 .container:before,
