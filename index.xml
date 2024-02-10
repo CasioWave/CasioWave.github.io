@@ -6,8 +6,15 @@
     <description>Recent content on Diptanuj Sarkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-in</language>
-    <lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://casiowave.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interesting Physics Links</title>
+      <link>https://casiowave.github.io/physics/interesting-links/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://casiowave.github.io/physics/interesting-links/</guid>
+      <description>I plan on collecting all the cool sites that I find, related to Physics of course, here.&#xA;K. McDonald&amp;rsquo;s Physics Examples: A rich, old-internet site with myriad resources pertaining to physics. PSE: Book Recommendations: Physics StackExhange&amp;rsquo;s very own list of recommended books and resources. In The Dark: Cute Problems: A very nice little blog with some nice questions. Tong Lectures: The David Tong lecture notes. Wolfram ScienceWorld: A cool website with a lot of historical information.</description>
+    </item>
     <item>
       <title>Semester 3</title>
       <link>https://casiowave.github.io/notes/semester-3/</link>
