@@ -3,7 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://casiowave.github.io/</loc>
-    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://casiowave.github.io/tags/academic/</loc>
+    <lastmod>2024-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://casiowave.github.io/notes/semester-4/</loc>
+    <lastmod>2024-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://casiowave.github.io/tags/</loc>
+    <lastmod>2024-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://casiowave.github.io/physics/</loc>
     <lastmod>2024-02-10T00:00:00+00:00</lastmod>
@@ -17,9 +26,6 @@
     <loc>https://casiowave.github.io/tags/resources/</loc>
     <lastmod>2024-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://casiowave.github.io/tags/</loc>
-    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://casiowave.github.io/tags/notes/</loc>
     <lastmod>2024-01-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -31,9 +37,6 @@
   </url><url>
     <loc>https://casiowave.github.io/physics/qmech-mathmethods/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://casiowave.github.io/tags/academic/</loc>
-    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://casiowave.github.io/physics/euler-lagrange/</loc>
     <lastmod>2024-01-13T00:00:00+00:00</lastmod>

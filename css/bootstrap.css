@@ -254,7 +254,7 @@ a {
 a:hover,
 a:focus {
   color: rgb(43, 151, 140);
-  background: rgb(212, 33, 33);
+  background: rgba(214, 117, 27, 0.829);
 }
 
 .img-rounded {
