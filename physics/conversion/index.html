@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<html lang="en-in"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <title>Diptanuj Sarkar</title>
+    
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="theme-color" content="#000084" />
+    <link rel="icon" href="http://localhost:1313//favicon.ico">
+    <link rel="canonical" href="http://localhost:1313/">
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+            delimiters: [
+                {left: "$$", right: "$$", display: true},
+                {left: "$", right: "$", display: false}
+            ]
+        });
+    });
+    </script>
+
+    
+    
+    
+    
+</head>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+        <div class="container">
+            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"></button>
+            <a class="brand" href="http://localhost:1313/">Diptanuj Sarkar</a>
+            <div class="nav-collapse collapse">
+                <ul class="nav">
+                    
+                    
+                        
+                            <li>
+                                <a href="/about/">
+                                    
+                                    <span>About</span>
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a href="/notes/">
+                                    
+                                    <span>Notes</span>
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a href="/physics/">
+                                    
+                                    <span>Physics</span>
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a href="/electronics/">
+                                    
+                                    <span>Electronics</span>
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a href="/quiz/">
+                                    
+                                    <span>Quiz</span>
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a href="/software/">
+                                    
+                                    <span>Software</span>
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a href="/music/">
+                                    
+                                    <span>Music</span>
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a href="/movies/">
+                                    
+                                    <span>Cinema</span>
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a href="/philosophy/">
+                                    
+                                    <span>Philosophy</span>
+                                </a>
+                            </li>
+                        
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav><div id="content" class="container">
+
+<div class="row-fluid navmargin">
+    <div class="page-header">
+        <h1> - Mon, Jan 1, 0001</h1>
+    </div>
+    <p class="lead"></p>
+    <h1 id="introduction">Introduction</h1>
+<p>Barchan dunes, characterized by their crescent-shaped morphology and
+unidirectional movement, are a common feature in arid and semi-arid
+regions. These dunes are formed by the action of wind on loose, dry sand
+and are typically oriented with their convex side facing upwind.
+Understanding the behavior of barchan dunes is crucial for a variety of
+scientific and practical reasons, including the study of desertification
+processes, the planning of infrastructure in desert areas, and the
+interpretation of extraterrestrial landscapes such as those found on
+Mars.</p>
+<p>This report details the findings of a summer research project focused on
+the dynamics of barchan dunes and their interaction with obstacles. The
+primary objective of this study was to investigate how obstacles of
+various sizes and shapes influence the movement, shape, and stability of
+barchan dunes. By simulating different scenarios in both a computational
+as well as experimental setting, the research intends to shed light on
+the behavior of these dunes.</p>
+<p>The research was conducted using a combination of researching field
+observations, laboratory experiments, and numerical modeling. Field
+observations provided baseline data on dune morphology and movement
+patterns, while laboratory experiments allowed for the controlled
+manipulation of variables such as wind speed, sand grain size, and
+obstacle characteristics. Numerical models were employed to simulate
+dune dynamics over longer timescales and to predict the potential
+impacts of various environmental changes. This was combined with a study
+of computational fluid dynamics so that the behavior of the dunes in
+interaction with obstacles could be modeled more realistically.</p>
+<p>Key questions addressed in this research include:</p>
+<ol>
+<li>
+<p>How can barchan dunes be reproduced experimentally in a lab setting?</p>
+<ol>
+<li>
+<p>How can the experimental apparatus be designed?</p>
+</li>
+<li>
+<p>How can the experiment be designed and carried out?</p>
+</li>
+</ol>
+</li>
+<li>
+<p>How can barchan dunes and their interactions with obstacles be
+numerically simulated?</p>
+<ol>
+<li>
+<p>How can the complexities of barchan dynamics be represented in a
+simple numerical model?</p>
+</li>
+<li>
+<p>How can the change in the flow around obstacles and its effect
+on barchans be simulated numerically?</p>
+</li>
+</ol>
+</li>
+</ol>
+<p>In the following sections, we present a comprehensive overview of the
+methodologies employed, the results obtained, and the conclusions drawn
+from this summer research project on barchan dunes and their
+interactions with obstacles.</p>
+<h1 id="experiment">Experiment</h1>
+<p><strong>Goal</strong>: To reproduce barchan dunes on a small length scale in an
+experimental setting.</p>
+<h2 id="design-of-the-experimental-apparatus">Design of the experimental apparatus</h2>
+<p>The primary conditions that need to be reproduced were -</p>
+<ol>
+<li>
+<p>Unidirectional apparent wind direction above the threshold for grain
+entrainment.</p>
+</li>
+<li>
+<p>Control over the wind velocity.</p>
+</li>
+<li>
+<p>Avoidance of secondary flows that can deform the barchan.</p>
+</li>
+</ol>
+<p>This was required because Barchans are primarily formed due to two
+processes:</p>
+<ul>
+<li>
+<p><strong>Saltation</strong>: The entrainment of sand grains into the air by the
+action of wind flow - essentially flinging the sand from its initial
+resting place to a certain distance.</p>
+</li>
+<li>
+<p><strong>Avalanching</strong>: The process by which sand that is at a resting
+angle that is greater than the angle of repose slides and deposits
+itself further downstream until the angle of repose is reached.</p>
+</li>
+</ul>
+<p>Additionally, as referenced in
+<a href="#hersen_relevant_2002">[hersen_relevant_2002]</a>{.ref}, the distance
+that is traveled by a saltated grain ($l_{d}$) is related to the mean
+density of the grain ($\rho_{s}$), the density of the fluid flowing over
+the sand bed ($\rho_{f}$), and the diameter of the grain ($d$) by the
+equation:</p>
+<p>$l_{d} = \frac{\rho_{s}}{\rho_{f}}d$</p>
+<p>So if we can reduce the relative density of the sand grain concerning
+the fluid ($\frac{\rho_{s}}{\rho_{f}}$), and use sand of a finer
+diameter, we can reproduce the normally huge barchans on a much smaller,
+centimeter-order, lengthscale. It is due to this that we take two
+important decisions:</p>
+<ul>
+<li>
+<p><strong>Water would be the fluid of choice</strong>. We could have used denser
+fluids, but they would be too difficult to procure and manage in the
+apparatus.</p>
+</li>
+<li>
+<p>The sand would be <strong>102 micron Silicon Carbide</strong>. It is easy to
+procure and there is literature on the specific cohesive effects
+between silicon carbide sand grains
+(<a href="#preudhomme_effect_nodate">[preudhomme_effect_nodate]</a>{.ref}).</p>
+</li>
+</ul>
+<p><strong>An interesting feature to note here is that Barchans are essentially
+scale-invariant structures and occur at all length scales and
+timescales.</strong> (Though there is some evidence to suggest that this might
+not be the case, namely -
+<a href="#kroy_comment_2004">[kroy_comment_2004]</a>{.ref}).<br>
+In <a href="#hersen_relevant_2002">[hersen_relevant_2002]</a>{.ref}, they
+reproduced Barchans on a small scale in subaqueous conditions using a
+submerged plate that was subjected to asymmetrical vibrations such that
+one direction of vibration was above the threshold of sand entrainment
+and the other was under the threshold. This gives us strong evidence
+that stable Barchans can be reproduced on centimeter-order lengthscales.</p>
+<h3 id="initial-designs">Initial designs</h3>
+<p>Several options were considered for the experimental apparatus that
+could reproduce these conditions. A few of them are represented below:</p>
+<ol>
+<li>
+<!-- raw HTML omitted -->
+</li>
+<li>
+<!-- raw HTML omitted -->
+</li>
+</ol>
+<p>These designs were later rejected due to them being difficult to
+water-seal, or due to the unpredictable turbulence of the flow through
+them. A more elegant solution was sought that would not face such
+difficulties and could utilize a rheometer that was available in the lab
+to control the flow.</p>
+<h3 id="final-design">Final design</h3>
+<!-- raw HTML omitted -->
+<p><br>
+In <a href="#bacik_dynamics_2021">[bacik_dynamics_2021]</a>{.ref}, they used a
+circular flume that is 97cm(outer radius) and with a flume width of 9
+cm, to reproduce two-dimensional Barchan dunes. Other experiments
+<a href="#alvarez_birth_2017">[alvarez_birth_2017]</a>{.ref}, have reproduced 3D
+Barchan dunes using pressure-driven path flow. We sought to reproduce
+these 3D Barchans using the flume apparatus instead of the
+pressure-driven flow apparatus due to the reasons outlined above.<br>
+We also chose to use 102-micron silicon carbide sand and did not use a
+diameter that was lower due to cohesive effects that were warned of in
+<a href="#hersen_relevant_2002">[hersen_relevant_2002]</a>{.ref} in sand that is
+below 100 microns in diameter.<br>
+The experimental apparatus that we designed consists of</p>
+<ul>
+<li>
+<p>a circular flume with outer radius of 15 cm and an inner radius of
+11 cm with straight walls that are 8 cm high</p>
+</li>
+<li>
+<p>an angled paddle that could provide constant shear to the fluid
+filling the channel</p>
+</li>
+<li>
+<p>support ring and disc to ensure that the walls are perfectly
+straight</p>
+</li>
+<li>
+<p>attachment for the paddle to the rheometer</p>
+</li>
+</ul>
+<p>The channel width is 4 cm which gives us a width-to-radius ratio of
+0.26, which is &lt;&lt; 1, so we can reasonably expect an approximately
+local straight flow in the channel on the order of length of the
+Barchans. The base of the flume was made using a 0.7 cm thick acrylic
+plate that was laser-cut to the specific dimensions. The walls of the
+flume were constructed out of OHP sheets that provided transparency for
+imaging the channel and were rigid enough to hold the water inside the
+flume without warping.\</p>
+<!-- raw HTML omitted -->
+<p><br>
+The paddle was designed with inspiration from cone-and-plate viscometers
+that are used to measure the rheological properties of minute samples.
+The angled paddle in the cone-and-plate viscometer provides a constant
+shear to the fluid. We sought to do the same with our paddle in order to
+avoid complicated secondary flow problems during the spin-up of the
+apparatus.<br>
+This was created by laser cutting angled (20-degree) support structures
+(as depicted in the figure above) and attaching a smooth strip of OHP
+sheet on the angled face. This prevented edge effects from sharp paddle
+edges in the fluid during rotation.<br>
+The paddle apparatus would be attached to the rheometer along its
+central axis. The rheometer would rotate the paddle apparatus at a
+constant angular velocity. After the spin-up period, the fluid in the
+flume would also be rotating at this angular velocity. The rheometer
+would be run in a constant shear mode which adjusts the shear rate to
+keep the angular velocity constant despite friction from the flume
+walls.<br>
+The sand would be deposited at the bottom of the flume in a conical heap
+and after the spin-up, it is expected that it would gradually evolve
+into a Barchan. All obstacles would also be similarly placed at the base
+of the flume channel.\</p>
+<h3 id="secondary-flow-problem">Secondary flow problem</h3>
+<p>According to
+<a href="#kolesnik_thomsoneinsteins_2023">[kolesnik_thomsoneinsteins_2023]</a>{.ref},
+the Einstein tea leaves paradox poses a problem in our experimental
+setup. This problem can be demonstrated by the simple swirling of tea
+leaves to the center of a stirred cup of tea.</p>
+<!-- raw HTML omitted -->
+<p>Similar to the setup of the paradox, the water in the flume is a
+rotating body of fluid in contact with the walls of the container that
+provide friction. Though the frictional effect of the outer flume
+surface is countered by the inner flume surface, the effect of the base
+plate friction is not countered by anything in the setup. This could
+cause a secondary flow in the inward direction, which could potentially
+deform the shape of the barchan (as perfect barchans are formed under
+unidirectional wind flow parallel to their direction of propagation).
+Several measures were considered to counterract this effect:</p>
+<ol>
+<li>
+<p>Non-moving lid with a sliding seal that could counterract the effect
+of the base plate friction</p>
+</li>
+<li>
+<p>Filling the flume with straws to ensure that the flow is in the
+direction that we desire</p>
+</li>
+<li>
+<p>Adding a counter-rotation to the base plate to counteract the
+effects that cause the secondary flow. (The authors of
+<a href="#bacik_dynamics_2021">[bacik_dynamics_2021]</a>{.ref} do this)</p>
+</li>
+</ol>
+<p>Finally, in discussion with my guide, we arrived at the following
+conclusions regarding this problem:</p>
+<ul>
+<li>
+<p>The secondary flow is not going to be of an order that will skew
+results in our experiment.</p>
+</li>
+<li>
+<p>The addition of lids and straws might cause other secondary flows in
+our system, causing more hinderances.</p>
+</li>
+</ul>
+<p>So we decided to forgo correcting for the secondary flow in our
+apparatus.</p>
+<h2 id="experiment-1">Experiment</h2>
+<p>The experiment could not be conducted due to problems with the
+experimental apparatus construction, and due to a lack of time.</p>
+<h1 id="simulation">Simulation</h1>
+<p>The simulation work was started after taking inspiration from
+<a href="#katsuki_emergence_2005">[katsuki_emergence_2005]</a>{.ref} and
+<a href="#katsuki_cellular_2011">[katsuki_cellular_2011]</a>{.ref}, both of whose
+work deals with numerically simulating the behavior of sand fields under
+simple unidirectional wind flow, eventually obtaining barchans. This led
+us to <a href="#werner_eolian_1995">[werner_eolian_1995]</a>{.ref} which was the
+first paper that established numerical simulations of barchans.</p>
+<h2 id="werner-cellular-automata-model">Werner Cellular Automata model</h2>
+<!-- raw HTML omitted -->
+<p>The model put forward by
+<a href="#werner_eolian_1995">[werner_eolian_1995]</a>{.ref} is essentially a
+simple cellular automata simulation with the following rules specified:</p>
+<ol>
+<li>
+<p>The sand field is comprised of cells $(x,y)$, each of which has an
+assigned height of sand ($h_{x,y}$).</p>
+</li>
+<li>
+<p>The sand casts a shadow in the downstream (concerning the wind flow)
+direction, decided by some fixed angle, approximating the extent of
+a recirculation cell downwind of a slipface of a dune.</p>
+</li>
+<li>
+<p>Cells are said to be in the shadow if it is the shadow of some cell
+that is upwind of it.</p>
+</li>
+<li>
+<p>Sand transport is carried out by selecting a cell randomly from the
+grid and carrying out two processes on it:</p>
+<ol>
+<li>
+<p><strong>Saltation</strong>: A slab of sand (some fixed height of sand) is
+picked up from the selected cell and deposited in another cell.
+If this second cell is in the shadow, then the sand is deposited
+there with a probability of 1. If it is not in the shadow but is
+covered by sand, then it is deposited with a probability of 0.6,
+and if the cell is not in the shadow and is bare, then it is
+deposited with a probability of 0.2. If the sand is not
+deposited, then the process repeats until the sand has been
+deposited.</p>
+</li>
+<li>
+<p><strong>Avalanching</strong>: The cell where the sand was deposited is
+checked to see whether any of the <strong>8</strong> (Moore neighborhood, not
+the von Neumann neighborhood) immediately neighboring cells have
+a sand height such that an avalanche of sand can occur from the
+deposit cell to that cell. If such a cell is found, a fixed
+height of sand is taken from the deposited cell and put on the
+neighbor cell, simulating a slip of sand. This process is
+repeated on that neighboring cell until a state is reached where
+no avalanche can occur.</p>
+</li>
+</ol>
+</li>
+</ol>
+<p>In addition to this, it is to be noted that the model allows for no
+erosion in the shadow, i.e. there is no saltation for the sand that is
+present in the shadow.</p>
+<p>This scheme was implemented in Python and C++, and the <strong>resulting dunes
+had the characteristic barchan shape</strong>.</p>
+<!-- raw HTML omitted -->
+<p>We measured the length and width of the simulated barchans (which
+evolved from initial conical sand piles of different sizes) and fitted
+them with a straight-line equation ($y = Ax + B$). We expected a
+reasonably good fit, in line with the results from
+<a href="#hersen_relevant_2002">[hersen_relevant_2002]</a>{.ref}.</p>
+<!-- raw HTML omitted -->
+<p>Thus, we can conclude that the results obtained do agree with the
+expected results. Comparison with data from field studies is left to be
+done.</p>
+<h2 id="computational-fluid-dynamics">Computational Fluid dynamics</h2>
+<p>To capture the behavior of barchans interacting with obstacles of
+different shapes and sizes, it was necessary to model the flow of fluid
+around these obstacles. This was done in two ways:</p>
+<ol>
+<li>
+<p>Solving the discretized Navier-Stokes equations for a stable
+pressure-driven flow across an obstacle.</p>
+</li>
+<li>
+<p>Using the Lattice Boltzmann method to numerically simulate unstable
+turbulent flow around an obstacle.</p>
+</li>
+</ol>
+<h3 id="pressure-driven-potential-flow">Pressure driven potential flow</h3>
+<p>In some cases, fluids can be modeled using a scalar potential function
+instead of a velocity field, which are related through:</p>
+<p>$\overset{\rightarrow}{v} = \overset{\rightarrow}{\nabla}\varphi$</p>
+<p>In 2 dimensions, the Laplace equation for the potential can be written
+as usual.</p>
+<p>This problem will be solved on a grid that features an airfoil-like
+obstacle region. This can be done by defining boundary conditions on the
+outer boundary $\Gamma_{0}$ (flow undisturbed here) and the inner
+boundary $\Gamma_{i}$ (the flow does not penetrate the obstacle region).
+This is written as:</p>
+<p>$\overset{\rightarrow}{v}(x) \cdot \overset{\rightarrow}{n}(x) = \overset{\rightarrow}{v_{0}} \cdot \overset{\rightarrow}{n}(x)\forall x \in \Gamma_{0}$</p>
+<p>Where $\overset{\rightarrow}{v_{0}}$ is the initial velocity of the
+fluid.</p>
+<p>$\overset{\rightarrow}{v}(x) \cdot \overset{\rightarrow}{n}(x) = 0\forall x \in \Gamma_{i}$</p>
+<p>These equations are then discretized using naive finite differences and
+then solved on the grid.</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>This CFD solver was integrated into the Werner model cellular automata
+by altering the code such that the direction and distance of the
+saltation of a particular grain were determined by the velocity vector
+at that grid location.</p>
+<p>Among the behaviors that were visualized using this simulation, the most
+notable was the <strong>calving</strong> of the barchan dune into two dunes before
+colliding with the obstacle. There was also a corresponding elongation
+and asymmetry observed in the original barchan.</p>
+<p>Work on the dynamics of sand collision with the obstacle is still
+underway, but it was also observed that sand was captured in the wake of
+the obstacle. The amount of sand captured in the wake and upwind of the
+obstacle, and the reformation of barchans downwind of the obstacle (if
+any) may be interesting variables to study - as information regarding
+these quantities is essential to predicting the behavior of migrating
+barchans that encroach on infrastructure.</p>
+<!-- raw HTML omitted -->
+<p>As of now, this model can only be treated as a qualitative
+representation of the dynamics of a barchan dune interacting with the
+obstacles.</p>
+<h3 id="lattice-boltzmann-method">Lattice Boltzmann method</h3>
+<p>The Lattice-Boltzmann algorithm provides us with a method for doing
+computational fluid dynamics that does not involve discretizing and
+solving the Navier-Stokes equations. Instead of doing that, we think of
+the fluid as a collection of molecules that exist on a grid. For each
+generation of the simulation, we imagine that these particles move to
+adjacent cells on the grid and that they collide with other particles.
+The macroscopic properties of the fluid in each cell of the lattice
+(density, velocity, etc) can then be computed from the particles that it
+contains.</p>
+<p>Suppose that the fluid is an ideal gas, and suppose that it has a
+macroscopic velocity $\overset{\rightarrow}{u}$ and is in thermal
+equilibrium at a temperature $T$. Then, the molecules will have thermal
+velocities $\overset{\rightarrow}{v}$ that are distributed according to
+the Boltzmann distribution. For a 2D gas, the distribution is:</p>
+<p>$D\left( \overset{\rightarrow}{v} \right) = \frac{m}{2\pi kT}\exp(\frac{- m\left| \overset{\rightarrow}{v} \right|^{2}}{2kT})$</p>
+<p>Where $m$ is the mass of each molecule, and $k$ is the Boltzmann
+constant.</p>
+<p>In the LB Method, we discretize both space and time so that only certain
+velocity vectors are allowed. In this case, we use the <strong>D2Q9</strong> lattice,
+in which there are only two dimensions and 9 allowed displacement
+vectors - perfectly suited for the 2D cellular automata model that we
+are working with.</p>
+<p>Now, we attach probabilities to these nine velocity vectors, to model
+the continuous Boltzmann distribution as accurately as possible. For a
+fluid at rest (i.e. $\overset{\rightarrow}{u} = 0$), the previous
+equation gives the most and least probable velocities with the following
+probabilities or weigths $w_{i}$ for each of the nine directions:</p>
+<!-- raw HTML omitted -->
+<p>The steps of the algorithm are:</p>
+<ol>
+<li>
+<p><strong>Streaming</strong>: All the particle number densities move into the
+adjacent/diagonal lattice cells.</p>
+</li>
+<li>
+<p><strong>Bouncing</strong>: All the particle number densities that have streamed
+into a cell containing a barrier are reflected back to the direction
+that they came from.</p>
+</li>
+<li>
+<p><strong>Collisions</strong>: From the new set of number densities contained
+within each cell, we compute what densities would be if the
+molecules in that cell were in thermal equilibrium. Then, we proceed
+to update all the densities in the cell toward this equilibrium
+state.</p>
+</li>
+</ol>
+<p>We can describe the microscopic particles that make up the fluid using
+the distribution function
+$f\left( \overset{\rightarrow}{x},\overset{\rightarrow}{v} \right)$
+which describes the phase space density of fluids at location
+$\overset{\rightarrow}{x}$ traveling with velocity
+$\overset{\rightarrow}{v}$</p>
+<p>The streaming and the colliding behavior can be captured by the BGK
+approximation (Bhatnagar-Gross-Krook).</p>
+<p>Where the left-hand side represents streaming and the right-hand side
+approximates collisions (with time scale $\tau$). In this approximation,
+the distribution function $f$ tends towards some equilibrium state
+$f^{eq}$ as a result of the collisions and streaming.</p>
+<p>This equation may be discretized onto the lattice. Moments of the
+discrete distribution function can be taken to recover the fluid
+variables at each lattice site.</p>
+<p>This method was implemented in Python, and a test case scenario was run
+with a cylindrical obstacle in a periodic box with rightward moving
+fluid. It was expected that as the simulation evolved, turbulence would
+develop in the wake of the cylinder, leading to the well-known pattern
+of the <strong>Karman vortex street</strong>.</p>
+<!-- raw HTML omitted -->
+<p>Integration of this model with the cellular automata is still underway,
+and we expect to see much more complex behavior from the barchans
+interacting with obstacles under the influence of this model. The
+turbulence that is being modeled might be the cause of the most
+interesting behavior, as it may prevent the formation of barchans or
+alter their shape in the wake of the obstacle.</p>
+<h3 id="global-avalanche">Global avalanching rules</h3>
+<p>The avalanching rule that was specified in the original model by Werner
+(<a href="#werner_eolian_1995">[werner_eolian_1995]</a>{.ref}), was seen to be
+too simplistic for real sand dunes due to the following reasons:</p>
+<ol>
+<li>
+<p>Sand does not always immediately avalanche when the angle of repose
+is reached or exceeded.</p>
+</li>
+<li>
+<p>Avalanches are a global phenomenon, i.e. a small avalanche or a
+deposition of sand can be enough to trigger a much bigger avalanche,
+which in turn can trigger even bigger avalanches. This behavior is
+not captured by the previous model.</p>
+</li>
+</ol>
+<p>To capture this behavior, we came up with a new set of rules for
+avalanching:</p>
+<ol>
+<li>
+<p>Initially, every point on the grid of sand will be evaluated to see
+whether the angle or repose is exceeded concerning any of the 8
+immediate neighbors. If it is exceeded, then the grid point is
+assigned a <strong>probability of avalanching</strong> that is <em>proportional to
+the steepness of the highest slope with its neighbors</em>. Let us call
+this initial probability at the grid location $(i,j)$ as
+${p^{0}}_{i,j}$.</p>
+</li>
+<li>
+<p>When a slab of sand is deposited, it is counted as a perturbation.
+The probability of avalanching in the neighborhood of the deposition
+spot is increased by a value that is proportional to
+$\frac{1}{d^{2}}$, where $d$ is the linear distance from the
+deposition spot and the cell being updated (This is done under the
+assumption that the energy from the perturbation dissipates in a
+spherically symmetric fashion). If
+${p^{0}}<em>{i,j} + \beta\frac{1}{d^{2}} &gt; 1$, $p</em>{new} = 1$, otherwise
+$p_{new} = {p^{0}}_{i,j} + \beta\frac{1}{d^{2}}$, where $\beta$ is
+some constant that measures the cooperativity of the avalanche
+processes.</p>
+</li>
+<li>
+<p>A matrix of random numbers ($x_{i,j}$) is generated with
+$x_{i,j} \in \lbrack 0,1\rbrack$. If $x_{i,j} &gt; p_{i,j}$, an
+avalanche is triggered there. A slab of sand is moved from that cell
+to the cell which it has the steepest angle with. The probability of
+avalanching at this position is set to zero. In all the positions
+where this condition is not satisfied, avalanching does not occur,
+and the probabilities remain the same.</p>
+</li>
+<li>
+<p>This avalanche, in turn, is also counted as a perturbation. Similar
+to the perturbation from the deposition of sand, the avalanching
+probabilities in the neighborhood of the avalanching cell are
+increased proportionally to $\frac{1}{d^{2}}$.</p>
+</li>
+<li>
+<p>The matrix of random numbers is generated again, and the process for
+initiating the avalanches is repeated. This continues until either a
+set upper limit of propagated avalanches (for computational cost
+reasons, this had to be implemented) is reached, or there are no
+more avalanches that have been initiated.</p>
+</li>
+</ol>
+<p>This model was also incorporated into the code, and the results seemed
+to show a greater realism in the case of sand avalanches as compared to
+the previous model. This manifested itself in smoother slopes of
+barchans, and more realistic and spread out slipface.</p>
+<h1 id="additional-work">Additional work</h1>
+<p>Some additional work was done regarding the barchans that do not fit
+into the categories mentioned above.</p>
+<h2 id="self-organized-criticality-soc">Self-Organized Criticality (SOC)</h2>
+<p>First introduced by
+<a href="#bak_self-organized_1987">[bak_self-organized_1987]</a>{.ref}, the
+concept of Self-Organized Criticality has pervaded the study of many
+systems. Particularly interesting among these systems, for our study, is
+the fact that Per Bak and his colleagues created a model for a sand
+pile - where the avalanches on the slope of the pile followed SOC
+behavior. It was shown by Sidney R. Nagel
+<a href="#nagel_instabilities_1992">[nagel_instabilities_1992]</a>{.ref} that
+sand piles do not demonstrate SOC behavior in real life.</p>
+<p>When a pile of sand is exactly at its angle or repose, it will suffer a
+lot of little landslides. A few of these landslides will become big. The
+theory of critical phenomena suggests that in this situation, the
+probability that a landslide grows to size $L$ should satisfy a power
+law, i.e. it should be proportional to $\frac{1}{L^{c}}$ for some number
+$c$ called the critical exponent. This type of behavior is seen in many
+situations where the system is on the brink of some drastic change, i.e.
+some critical point.</p>
+<p>When the system is not at a critical point, we observe exponential laws
+where the probability of a disturbance of size L is proportional to
+$\exp( - \frac{L}{L_{0}})$ where $L_{0}$ is a fixed length scale. The
+direct implication of this is that systems that are at a critical point
+are self-similar - i.e. it has no specific length scale.</p>
+<p>The idea of self-organized criticality introduced by
+<a href="#bak_self-organized_1987">[bak_self-organized_1987]</a>{.ref} says that
+some physical systems (like sand piles and dunes) seem to spontaneously
+bring themselves towards critical points without any need for us to tune
+their parameters to special values.</p>
+<p>The question of whether our new global avalanching model (explained
+previously) is any better concerning following SOC (or not following
+SOC) was of interest to us.</p>
+<p>To test how the model performed in comparison to the older model, we
+sought to test the power laws that avalanches in SOC systems follow.</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>As it can be seen, the older rule follows the power law quite closely up
+until a certain cutoff size. The newer rule, on the other hand, does not
+follow the SOC power law as closely and seems to have a noticeable
+deviation after a certain point.</p>
+<p>We hypothesize that this is because the newer rule mimics the nature of
+sand avalanches more closely, i.e. there is a finite probability that an
+avalanche will not happen even if the angle of slope is greater than the
+angle of repose of the sand.</p>
+<p>For further work on this avenue, we need to compare the results from the
+new rule to the results that were obtained by
+<a href="#nagel_instabilities_1992">[nagel_instabilities_1992]</a>{.ref}.</p>
+<h2 id="equation-of-surface-of-the-barchan-dune">Equation of surface of the barchan dune</h2>
+<!-- raw HTML omitted -->
+<p>Inspired by the work of
+<a href="#noauthor_geometry_nodate">[noauthor_geometry_nodate]</a>{.ref}, we
+sought to understand why Barchan dunes are such general structures -
+they form wherever there is scarce granular matter present with a fluid
+flowing over it above a certain threshold shear rate.</p>
+<p>We hypothesize that some variable is being optimized in the case of the
+barchan, i.e. the barchan shape is optimizing some quantity. We think
+that the barchan is optimizing the trapping efficiency (that fraction of
+the incoming sand flux on the barchan that is trapped in the separation
+bubble) because the barchan is a self-sustaining shape that migrates
+while having little to no change in its size and shape under a wide
+variety of wind velocities. To confirm this, the first step would be to
+understand the shape of the barchan and to quantify it precisely so that
+models could be made of it and tested further.</p>
+<p>Since the barchan has an asymmetric shape in a longitudinal (along the
+wind) cross-section, we start with an asymmetric sinusoid
+$y = a\sin\left( x - b\sin(x) \right)$.</p>
+<p>Next, we know from
+<a href="#sauermann_shape_2000">[sauermann_shape_2000]</a>{.ref} that the
+windward and leeward feet of the barchan approximate a parabolic profile
+quite closely. Integrating this fact, along with a few other tweaks, we
+arrive at the equation:</p>
+<p>$z = - f\left( ax^{2} + bx + c \right)\sin^{2}\left( y - x^{2} - d\sin^{2}\left( y - x^{2} \right) \right)$</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>The graphs look quite similar to barchans qualitatively, but we can not
+say for sure that this is the equation of the surface of the barchans
+until we fit the equation with field data. This could not be done due to
+the lack of time, and difficulty in finding tabulated field measurements
+that could be used for this purpose.</p>
+
+    <h4><a href="http://localhost:1313/"></a></h4>
+</div>
+
+
+        </div><footer class="container">
+    <hr class="soften">
+    <p>
+&copy; 
+<a href="https://casiowave.github.io" target="_blank">
+    Diptanuj Sarkar
+</a>
+<span id="thisyear">2024 | </span>
+
+
+</p>
+    <p class="text-center">
+        
+        
+        <a href="https://www.linkedin.com/in/diptanuj/">Linkedin</a> 
+        <a href="https://github.com/CasioWave">GitHub</a> 
+        
+	<a href="https://www.last.fm/user/CasioWave">Last.FM</a>
+	<a href="https://rateyourmusic.com/~CasioWave">RYM</a>
+    </p>
+</footer>
+
+</body><link rel="stylesheet" href="/css/bootstrap.css">
+<link rel="stylesheet" href="/css/bootstrap-responsive.css">
+<link rel="stylesheet" href="/css/style.css">
+
+<script src="/js/jquery.js"></script>
+<script src="/js/bootstrap-386.js"></script>
+<script src="/js/bootstrap-transition.js"></script>
+<script src="/js/bootstrap-alert.js"></script>
+<script src="/js/bootstrap-modal.js"></script>
+<script src="/js/bootstrap-dropdown.js"></script>
+<script src="/js/bootstrap-scrollspy.js"></script>
+<script src="/js/bootstrap-tab.js"></script>
+<script src="/js/bootstrap-tooltip.js"></script>
+<script src="/js/bootstrap-popover.js"></script>
+<script src="/js/bootstrap-button.js"></script>
+<script src="/js/bootstrap-collapse.js"></script>
+<script src="/js/bootstrap-carousel.js"></script>
+<script src="/js/bootstrap-typeahead.js"></script>
+<script src="/js/bootstrap-affix.js"></script>
+<script>
+    _386 = { 
+        fastLoad: false ,
+        onePass: true , 
+        speedFactor: 1 
+    };
+
+    
+    function ThisYear() {
+        document.getElementById('thisyear').innerHTML = new Date().getFullYear();
+    };
+</script>
+</html>
