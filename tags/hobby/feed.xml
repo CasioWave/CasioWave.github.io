@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hobby on Diptanuj Sarkar</title>
+    <link>https://casiowave.github.io/tags/hobby/</link>
+    <description>Recent content in Hobby on Diptanuj Sarkar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://casiowave.github.io/tags/hobby/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Knowing random stuff is nice</title>
+      <link>https://casiowave.github.io/quiz/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/quiz/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll be uploading any quiz sets I make - right here!&lt;/p&gt;
+&lt;h1 id=&#34;index&#34;&gt;Index&lt;/h1&gt;</description>
+      <content:encoded><![CDATA[<p></p>
+<p>I&rsquo;ll be uploading any quiz sets I make - right here!</p>
+<h1 id="index">Index</h1>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Tech Quiz - 25-03-2023</title>
+      <link>https://casiowave.github.io/quiz/tech-quiz---25-03-2023/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/quiz/tech-quiz---25-03-2023/</guid>
+      <description>&lt;p&gt;Made in collaboration with &lt;a href=&#34;https://students.iiserkol.ac.in/~ar22ms052&#34;&gt;Abhratanu Ray&lt;/a&gt; and &lt;a href=&#34;https://students.iiserkol.ac.in/~ss22ms037&#34;&gt;Sabarno Saha&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The very first quiz set we made for the Quiz Club.&lt;/p&gt;
+&lt;p&gt;You can find it &lt;a href=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRFgFFV4avSRcDXF9uR7c0bXO-WQulyGEDG1ym_zhiG1mAowBSL4tJDp2TzE3UcOLghAqlP26mDBhFn/embed?start=false&amp;amp;loop=false&amp;amp;delayms=30000&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Made in collaboration with <a href="https://students.iiserkol.ac.in/~ar22ms052">Abhratanu Ray</a> and <a href="https://students.iiserkol.ac.in/~ss22ms037">Sabarno Saha</a>.</p>
+<p>The very first quiz set we made for the Quiz Club.</p>
+<p>You can find it <a href="https://docs.google.com/presentation/d/e/2PACX-1vRFgFFV4avSRcDXF9uR7c0bXO-WQulyGEDG1ym_zhiG1mAowBSL4tJDp2TzE3UcOLghAqlP26mDBhFn/embed?start=false&amp;loop=false&amp;delayms=30000">here</a></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>War Quiz - 03-11-2023</title>
+      <link>https://casiowave.github.io/quiz/war-quiz---03-11-2023/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/quiz/war-quiz---03-11-2023/</guid>
+      <description>Wacky wars galore!</description>
+      <content:encoded><![CDATA[<p></p>
+<p>A quiz based solely on <a href="https://en.wikipedia.org/wiki/War">wars</a> that I made. You can find it <a href="https://docs.google.com/presentation/d/1gf9q-j7L3e9G3P-iCwr2rqCorg5ndJE1ijFdGSK1U1s/edit?usp=sharing">here</a>.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Get Started!</title>
+      <link>https://casiowave.github.io/electronics/get-started/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/electronics/get-started/</guid>
+      <description>Some guidance for beginners</description>
+      <content:encoded><![CDATA[<p></p>
+<p>A collection of online (and offline) resources that, in my opinion, are ideal for anyone who wishes to start tinkering. The list is continually being updated as I encounter good resources out there in the wild.</p>
+<h1 id="general-websites">General Websites</h1>
+<p>Reference for guided tutorials, theory, project ideas, and news pertinent to the hobbyist electronics community.</p>
+<ul>
+<li>
+<p><a href="https://www.electronics-tutorials.ws/">Electronics-Tutorial</a> : Simple, clean tutorial site. The topics are not arranged in an ideal sequence, in my opinion, but it is still a great first reference.</p>
+</li>
+<li>
+<p><a href="https://learn.sparkfun.com/">Sparkfun Learn</a> : A pretty exhaustive list of tutorials (and in general, information) regarding the myriad modules you can get for the Arduino ecosystem.</p>
+</li>
+<li>
+<p><a href="https://www.allaboutcircuits.com/textbook/">All About Circuits</a> : Framed like a textbook (technically, it <strong>is</strong> one), it is an excellent learning resource for beginners. Their <a href="https://www.allaboutcircuits.com/">blog</a> is pretty technical, but you can find useful/interesting stuff on it.</p>
+</li>
+<li>
+<p><a href="http://electronicstheory.com/COURSES/ELECTRONICS/e101-1.htm">electronicstheory.com</a> : A very old, and respected, site on electronics theory up to an intermediate level.</p>
+</li>
+<li>
+<p><a href="https://www.instructables.com/circuits/">Instructables</a> : Always a good source for project ideas.</p>
+</li>
+<li>
+<p><a href="https://www.eevblog.com/">EEVblog</a> : Best blog out there for all things EE.</p>
+</li>
+<li>
+<p><a href="https://www.electrical4u.com/electrical-engineering-articles/digital-electronics/">Electrical4U</a> : Informative articles.</p>
+</li>
+<li>
+<p><a href="https://docs.arduino.cc/learn/">Arduino Docs</a> : Something you should have in your bookmarks if you work with Arduinos. Well written, and concise.</p>
+</li>
+</ul>
+<h1 id="communities">Communities</h1>
+<p>Communities are a great way to get involved with electronics as a hobby.</p>
+<ul>
+<li>
+<p><a href="https://www.reddit.com/r/AskElectronics/wiki/beginners/">/r/AskElectronics</a> : For those of you out there who are familiar with Reddit, r/AskElectronics is a very good community to get started in.</p>
+</li>
+<li>
+<p><a href="https://electronics.stackexchange.com/">Electronics StackExchange</a> : Ask questions here, if Reddit is not your thing (and I don&rsquo;t blame you if it isn&rsquo;t).</p>
+</li>
+</ul>
+<h1 id="video-resources">Video Resources</h1>
+<ul>
+<li>
+<p><a href="https://www.youtube.com/playlist?list=PLAROrg3NQn7cyu01HpOv5BWo217XWBZu0">GreatScott&rsquo;s Electronic Basics Playlist</a> : If video tutorials are your thing, GreatScott&rsquo;s Electronic Basics is an excellent place to start. You might want to check out his YT Channel in general, it has great stuff.</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/channel/UCosnWgi3eorc1klEQ8pIgJQ">Afrotechmods</a> : Though he hasn&rsquo;t put out any new videos/blog posts in over 5 years, Afrotechmods&rsquo; YT channel and website remain excellent references.</p>
+</li>
+</ul>
+<h1 id="books">Books</h1>
+<p>You&rsquo;ll find me hoarding these books at the Library most of the time, but I&rsquo;m willing to share.</p>
+<ul>
+<li>
+<p><em>The Art of Electronics</em> - Paul Horowitz, Winfield Hill: Highly recommended read. Our library has a copy, <a href="http://lib.iiserkol.ac.in:8080/lib/item?id=chamo:7869&amp;theme=iiserk">here</a>.</p>
+</li>
+<li>
+<p><em>Electronic Principles</em> - Albert Paul Malvino, David J. Bates: Standard textbook on all things electronics - and for good reason. Library copy <a href="http://lib.iiserkol.ac.in:8080/lib/item?id=chamo:808&amp;theme=iiserk">here</a>.</p>
+</li>
+<li>
+<p><em>Digital Computer Electronics</em> - Albert Paul Malvino, Jerald A. Brown: Library copy <a href="http://lib.iiserkol.ac.in:8080/lib/item?id=chamo:2121&amp;theme=iiserk">here</a>.</p>
+</li>
+<li>
+<p><em>Practical Electronics Handbook</em> - Ian R. Sinclair, John Dunton: The library has a <a href="http://lib.iiserkol.ac.in:8080/lib/item?id=chamo:3362&amp;theme=iiserk">copy</a>, but I haven&rsquo;t been able to track it down yet :(</p>
+</li>
+<li>
+<p><em>Electronics: A Physical Approach</em> - David W. Snoke: Excellent read, also highly recommended.</p>
+</li>
+</ul>
+<h1 id="arduino-specific">Arduino specific</h1>
+<p>If you ask me, the best way to start is to just get yourself and <a href="https://www.amazon.in/arduino-kit/s?k=arduino&#43;kit">Arduino kit</a>, go on Instructables, decide on some project (doesn&rsquo;t matter if it looks complicated, it just needs to interest you) and, well, <strong>just start</strong>.
+In my experience, you always learn this stuff faster if you build it yourself instead of just reading the theory.</p>
+<h1 id="more-to-come">More to come!</h1>
+<p>I&rsquo;ll be adding websites, YT channels, books, and other resources as I come across them. Feel free to <a href="mailto:ds22ms038@iiserkol.ac.in">contact me</a> with any suggestions!
+Looking forward to an active hobbyist electronics community on campus :)</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Electrons are weird</title>
+      <link>https://casiowave.github.io/electronics/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/electronics/</guid>
+      <description>&lt;p&gt;Tinkering and playing around with electronics is just about my main hobby - or atleast it used to be. I&amp;rsquo;m working on regaining my skills, now that I have the time to do so.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h1 id=&#34;index&#34;&gt;Index&lt;/h1&gt;</description>
+      <content:encoded><![CDATA[<p>Tinkering and playing around with electronics is just about my main hobby - or atleast it used to be. I&rsquo;m working on regaining my skills, now that I have the time to do so.</p>
+<p></p>
+<h1 id="index">Index</h1>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Aristrocratic Wine-Sipping</title>
+      <link>https://casiowave.github.io/movies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/movies/</guid>
+      <description>All about movies that I enjoy</description>
+      <content:encoded><![CDATA[<p></p>
+<p>I am new to taking films <em>seriously</em>.</p>
+<p>Content coming up soon! Here are some links to my cinema related social media (they have nothing up yet) -</p>
+<ul>
+<li><a href="https://letterboxd.com/CasioWave/">Letterboxd</a></li>
+<li><a href="https://www.imdb.com/user/ur180174016">IMDb</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Tunak Tunak Tun</title>
+      <link>https://casiowave.github.io/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/music/</guid>
+      <description>Tarara</description>
+      <content:encoded><![CDATA[<p></p>
+<p>I don&rsquo;t have anything that I would like to put up here right now - so <a href="https://www.last.fm/user/CasioWave">here</a> is my last.fm, and <a href="https://rateyourmusic.com/~CasioWave">here</a> is my RYM. I hope to talk about the music that I listen to here, soon!</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Physics on Diptanuj Sarkar</title>
+    <link>https://casiowave.github.io/tags/physics/</link>
+    <description>Recent content in Physics on Diptanuj Sarkar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 10 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://casiowave.github.io/tags/physics/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interesting Physics Links</title>
+      <link>https://casiowave.github.io/physics/interesting-links/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/physics/interesting-links/</guid>
+      <description>Some interesting links from around the internet</description>
+      <content:encoded><![CDATA[<p>I plan on collecting all the cool sites that I find, related to Physics of course, here.</p>
+<ul>
+<li><a href="http://kirkmcd.princeton.edu/examples/">K. McDonald&rsquo;s Physics Examples</a>: A rich, old-internet site with myriad resources pertaining to physics.</li>
+<li><a href="https://physics.stackexchange.com/questions/12175/resource-recommendations">PSE: Book Recommendations</a>: Physics StackExhange&rsquo;s very own list of recommended books and resources.</li>
+<li><a href="https://telescoper.blog/category/cute-problems/">In The Dark: Cute Problems</a>: A very nice little blog with some nice questions.</li>
+<li><a href="http://www.damtp.cam.ac.uk/user/tong/teaching.html">Tong Lectures</a>: The David Tong lecture notes.</li>
+<li><a href="https://scienceworld.wolfram.com/">Wolfram ScienceWorld</a>: A cool website with a lot of historical information.</li>
+<li><a href="https://quantummechanics.ucsd.edu/ph130a/130_notes/130_notes.html">UCSD Quantum Mechanics Notes</a>: Equation heavy, but thorough Quantum Mechanics notes.</li>
+<li><a href="https://ocw.mit.edu/search/?d=Physics">MIT OCW Physics</a>: Of course</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Some Mathematical Methods notes for QM</title>
+      <link>https://casiowave.github.io/physics/qmech-mathmethods/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/physics/qmech-mathmethods/</guid>
+      <description>Source: Principles of Quantum Mechanics, Shankar</description>
+      <content:encoded><![CDATA[<p>Here are some handwritten notes that I took while working through chapter 1 of Shankar&rsquo;s <em>Principles of Quantum Mechanics</em>.
+Hope this is of use.</p>
+<div id="adobe-dc-view"></div>
+
+<script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
+
+<script type="text/javascript">
+    document.addEventListener("adobe_dc_view_sdk.ready", function () {
+        var adobeDCView = new AdobeDC.View({
+            clientId: "c82825ed4f584af9ab27434556c33d08",
+            divId: "adobe-dc-view",
+        });
+
+        adobeDCView.previewFile({
+            content: {
+                location: {
+                    url: "https://casiowave.github.io/pdf/shankar_mathmeth.pdf",
+                },
+            },
+
+            metaData: { fileName: "shankar_mathmeth.pdf" },
+        });
+    });
+</script>
+
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

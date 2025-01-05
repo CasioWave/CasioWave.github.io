@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Project on Diptanuj Sarkar</title>
+    <link>https://casiowave.github.io/tags/project/</link>
+    <description>Recent content in Project on Diptanuj Sarkar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://casiowave.github.io/tags/project/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Barchan Dunes interacting with Obstacles</title>
+      <link>https://casiowave.github.io/physics/barchan/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/physics/barchan/</guid>
+      <description>Summer Research Project that I carried out under Prof. Rajesh Ganapathy at JNCASR, Bengaluru</description>
+      <content:encoded><![CDATA[<p>Here is the project report for the Project on Barchan Dunes that I carried out under the SRFP (Summer Research Fellowship Program) of the Indian Academy of Sciences, in the Summer of 2024.</p>
+<div id="adobe-dc-view"></div>
+
+<script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
+
+<script type="text/javascript">
+    document.addEventListener("adobe_dc_view_sdk.ready", function () {
+        var adobeDCView = new AdobeDC.View({
+            clientId: "c82825ed4f584af9ab27434556c33d08",
+            divId: "adobe-dc-view",
+        });
+
+        adobeDCView.previewFile({
+            content: {
+                location: {
+                    url: "https://casiowave.github.io/pdf/without-code.pdf",
+                },
+            },
+
+            metaData: { fileName: "without-code.pdf" },
+        });
+    });
+</script>
+
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
