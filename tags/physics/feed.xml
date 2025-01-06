@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Physics on Diptanuj Sarkar</title>
-    <link>https://localhost:1313/tags/physics/</link>
+    <link>https://casiowave.github.io/tags/physics/</link>
     <description>Recent content in Physics on Diptanuj Sarkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/physics/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://casiowave.github.io/tags/physics/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interesting Physics Links</title>
-      <link>https://localhost:1313/physics/interesting-links/</link>
+      <link>https://casiowave.github.io/physics/interesting-links/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/physics/interesting-links/</guid>
+      <guid>https://casiowave.github.io/physics/interesting-links/</guid>
       <description>Some interesting links from around the internet</description>
       <content:encoded><![CDATA[<p>I plan on collecting all the cool sites that I find, related to Physics of course, here.</p>
 <ul>
@@ -29,10 +29,10 @@
     
     <item>
       <title>Some Mathematical Methods notes for QM</title>
-      <link>https://localhost:1313/physics/qmech-mathmethods/</link>
+      <link>https://casiowave.github.io/physics/qmech-mathmethods/</link>
       <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/physics/qmech-mathmethods/</guid>
+      <guid>https://casiowave.github.io/physics/qmech-mathmethods/</guid>
       <description>Source: Principles of Quantum Mechanics, Shankar</description>
       <content:encoded><![CDATA[<p>Here are some handwritten notes that I took while working through chapter 1 of Shankar&rsquo;s <em>Principles of Quantum Mechanics</em>.
 Hope this is of use.</p>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Notes on Diptanuj Sarkar</title>
-    <link>https://localhost:1313/tags/notes/</link>
+    <link>https://casiowave.github.io/tags/notes/</link>
     <description>Recent content in Notes on Diptanuj Sarkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/notes/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://casiowave.github.io/tags/notes/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Semester 3</title>
-      <link>https://localhost:1313/notes/2024/01/semester-3/</link>
+      <link>https://casiowave.github.io/notes/2024/01/semester-3/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/notes/2024/01/semester-3/</guid>
+      <guid>https://casiowave.github.io/notes/2024/01/semester-3/</guid>
       <description>Some lecture notes from Semester 3</description>
       <content:encoded><![CDATA[<p>Here are some of the lectures notes that I took in Semester 3.</p>
 <ul>

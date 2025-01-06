@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Euler-Lagrange on Diptanuj Sarkar</title>
-    <link>https://localhost:1313/tags/euler-lagrange/</link>
+    <link>https://casiowave.github.io/tags/euler-lagrange/</link>
     <description>Recent content in Euler-Lagrange on Diptanuj Sarkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/euler-lagrange/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://casiowave.github.io/tags/euler-lagrange/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Euler-Lagrange equations: A derivation</title>
-      <link>https://localhost:1313/physics/euler-lagrange/</link>
+      <link>https://casiowave.github.io/physics/euler-lagrange/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/physics/euler-lagrange/</guid>
+      <guid>https://casiowave.github.io/physics/euler-lagrange/</guid>
       <description>This is me trying out KaTeX on the site</description>
       <content:encoded><![CDATA[<h1 id="introduction">Introduction</h1>
 <p>We start off by taking as a prototype the simple Newtonian scheme of a point particle of mass $m$ moving along the x-axis under a potential field $V(x)$.</p>

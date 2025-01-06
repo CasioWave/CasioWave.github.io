@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Math-Methods on Diptanuj Sarkar</title>
-    <link>https://localhost:1313/tags/math-methods/</link>
+    <link>https://casiowave.github.io/tags/math-methods/</link>
     <description>Recent content in Math-Methods on Diptanuj Sarkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/math-methods/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://casiowave.github.io/tags/math-methods/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Some Mathematical Methods notes for QM</title>
-      <link>https://localhost:1313/physics/qmech-mathmethods/</link>
+      <link>https://casiowave.github.io/physics/qmech-mathmethods/</link>
       <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/physics/qmech-mathmethods/</guid>
+      <guid>https://casiowave.github.io/physics/qmech-mathmethods/</guid>
       <description>Source: Principles of Quantum Mechanics, Shankar</description>
       <content:encoded><![CDATA[<p>Here are some handwritten notes that I took while working through chapter 1 of Shankar&rsquo;s <em>Principles of Quantum Mechanics</em>.
 Hope this is of use.</p>

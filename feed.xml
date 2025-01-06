@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Diptanuj Sarkar</title>
-    <link>https://localhost:1313/</link>
+    <link>https://casiowave.github.io/</link>
     <description>Recent content on Diptanuj Sarkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://casiowave.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Barchan Dunes interacting with Obstacles</title>
-      <link>https://localhost:1313/physics/barchan/</link>
+      <link>https://casiowave.github.io/physics/barchan/</link>
       <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/physics/barchan/</guid>
+      <guid>https://casiowave.github.io/physics/barchan/</guid>
       <description>Summer Research Project that I carried out under Prof. Rajesh Ganapathy at JNCASR, Bengaluru</description>
       <content:encoded><![CDATA[<p>Here is the project report for the Project on Barchan Dunes that I carried out under the SRFP (Summer Research Fellowship Program) of the Indian Academy of Sciences, in the Summer of 2024.</p>
 <div id="adobe-dc-view" style="height: 1000px"></div>
@@ -43,10 +43,10 @@
     
     <item>
       <title>Semester 4</title>
-      <link>https://localhost:1313/notes/2024/02/semester-4/</link>
+      <link>https://casiowave.github.io/notes/2024/02/semester-4/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/notes/2024/02/semester-4/</guid>
+      <guid>https://casiowave.github.io/notes/2024/02/semester-4/</guid>
       <description>Good Luck</description>
       <content:encoded><![CDATA[<p>You can find all the notes (incomplete ones and lab notes included) uploaded here - <a href="https://github.com/CasioWave/Lecture-Notes/tree/main/Sem%204">link</a></p>
 <h2 id="end-semester-merged-notes">End Semester Merged Notes</h2>
@@ -74,10 +74,10 @@
     
     <item>
       <title>Interesting Physics Links</title>
-      <link>https://localhost:1313/physics/interesting-links/</link>
+      <link>https://casiowave.github.io/physics/interesting-links/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/physics/interesting-links/</guid>
+      <guid>https://casiowave.github.io/physics/interesting-links/</guid>
       <description>Some interesting links from around the internet</description>
       <content:encoded><![CDATA[<p>I plan on collecting all the cool sites that I find, related to Physics of course, here.</p>
 <ul>
@@ -94,10 +94,10 @@
     
     <item>
       <title>Semester 3</title>
-      <link>https://localhost:1313/notes/2024/01/semester-3/</link>
+      <link>https://casiowave.github.io/notes/2024/01/semester-3/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/notes/2024/01/semester-3/</guid>
+      <guid>https://casiowave.github.io/notes/2024/01/semester-3/</guid>
       <description>Some lecture notes from Semester 3</description>
       <content:encoded><![CDATA[<p>Here are some of the lectures notes that I took in Semester 3.</p>
 <ul>
@@ -108,10 +108,10 @@
     
     <item>
       <title>Some Mathematical Methods notes for QM</title>
-      <link>https://localhost:1313/physics/qmech-mathmethods/</link>
+      <link>https://casiowave.github.io/physics/qmech-mathmethods/</link>
       <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/physics/qmech-mathmethods/</guid>
+      <guid>https://casiowave.github.io/physics/qmech-mathmethods/</guid>
       <description>Source: Principles of Quantum Mechanics, Shankar</description>
       <content:encoded><![CDATA[<p>Here are some handwritten notes that I took while working through chapter 1 of Shankar&rsquo;s <em>Principles of Quantum Mechanics</em>.
 Hope this is of use.</p>
@@ -143,10 +143,10 @@ Hope this is of use.</p>
     
     <item>
       <title>Euler-Lagrange equations: A derivation</title>
-      <link>https://localhost:1313/physics/euler-lagrange/</link>
+      <link>https://casiowave.github.io/physics/euler-lagrange/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/physics/euler-lagrange/</guid>
+      <guid>https://casiowave.github.io/physics/euler-lagrange/</guid>
       <description>This is me trying out KaTeX on the site</description>
       <content:encoded><![CDATA[<h1 id="introduction">Introduction</h1>
 <p>We start off by taking as a prototype the simple Newtonian scheme of a point particle of mass $m$ moving along the x-axis under a potential field $V(x)$.</p>
@@ -272,10 +272,10 @@ $$
     
     <item>
       <title>Tech Quiz - 25-03-2023</title>
-      <link>https://localhost:1313/quiz/tech-quiz/</link>
+      <link>https://casiowave.github.io/quiz/tech-quiz/</link>
       <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/quiz/tech-quiz/</guid>
+      <guid>https://casiowave.github.io/quiz/tech-quiz/</guid>
       <description>&lt;p&gt;Made in collaboration with &lt;a href=&#34;https://students.iiserkol.ac.in/~ar22ms052&#34;&gt;Abhratanu Ray&lt;/a&gt; and &lt;a href=&#34;https://students.iiserkol.ac.in/~ss22ms037&#34;&gt;Sabarno Saha&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The very first quiz set we made for the Quiz Club.&lt;/p&gt;
 &lt;p&gt;You can find it &lt;a href=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRFgFFV4avSRcDXF9uR7c0bXO-WQulyGEDG1ym_zhiG1mAowBSL4tJDp2TzE3UcOLghAqlP26mDBhFn/embed?start=false&amp;amp;loop=false&amp;amp;delayms=30000&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
@@ -287,10 +287,10 @@ $$
     
     <item>
       <title>War Quiz - 03-11-2023</title>
-      <link>https://localhost:1313/quiz/war-quiz---03-11-2023/</link>
+      <link>https://casiowave.github.io/quiz/war-quiz---03-11-2023/</link>
       <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/quiz/war-quiz---03-11-2023/</guid>
+      <guid>https://casiowave.github.io/quiz/war-quiz---03-11-2023/</guid>
       <description>Wacky wars galore!</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/quiz/war-quiz---03-11-2023/uncle-sam.jpeg" type="" alt="Uncle Sam"  /></p>
 <p>A quiz based solely on <a href="https://en.wikipedia.org/wiki/War">wars</a> that I made. You can find it <a href="https://docs.google.com/presentation/d/1gf9q-j7L3e9G3P-iCwr2rqCorg5ndJE1ijFdGSK1U1s/edit?usp=sharing">here</a>.</p>
@@ -299,10 +299,10 @@ $$
     
     <item>
       <title>Get Started!</title>
-      <link>https://localhost:1313/electronics/get-started/</link>
+      <link>https://casiowave.github.io/electronics/get-started/</link>
       <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/electronics/get-started/</guid>
+      <guid>https://casiowave.github.io/electronics/get-started/</guid>
       <description>Some guidance for beginners</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/electronics/get-started/images/get-started.gif" type="" alt="get-started"  /></p>
 <p>A collection of online (and offline) resources that, in my opinion, are ideal for anyone who wishes to start tinkering. The list is continually being updated as I encounter good resources out there in the wild.</p>
