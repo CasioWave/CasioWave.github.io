@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>A list of things that interest me on Diptanuj Sarkar</title>
+    <link>https://casiowave.github.io/interests/</link>
+    <description>Recent content in A list of things that interest me on Diptanuj Sarkar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://casiowave.github.io/interests/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quiz</title>
+      <link>https://casiowave.github.io/interests/quiz/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/interests/quiz/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://casiowave.github.io/interests/quiz/images/quiz.png&#34; type=&#34;&#34; alt=&#34;Quizo&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll be uploading any quiz sets I make - right here!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/interests/quiz/images/quiz.png" type="" alt="Quizo"  /></p>
+<p>I&rsquo;ll be uploading any quiz sets I make - right here!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Electronics</title>
+      <link>https://casiowave.github.io/interests/electronics/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/interests/electronics/</guid>
+      <description>&lt;p&gt;Tinkering and playing around with electronics is just about my main hobby - or atleast it used to be. I&amp;rsquo;m working on regaining my skills, now that I have the time to do so.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://casiowave.github.io/interests/electronics/images/circuit-pix.gif&#34; type=&#34;&#34; alt=&#34;Pixel art circuit&#34;  /&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Tinkering and playing around with electronics is just about my main hobby - or atleast it used to be. I&rsquo;m working on regaining my skills, now that I have the time to do so.</p>
+<p><img loading="lazy" src="/interests/electronics/images/circuit-pix.gif" type="" alt="Pixel art circuit"  /></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://casiowave.github.io/interests/software/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/interests/software/</guid>
+      <description>&lt;p&gt;As of right now (06-01-2025), I am using &lt;a href=&#34;https://cachyos.org/&#34;&gt;Cachy OS&lt;/a&gt;. I may be hallucinating it, but all of the Kernel Optimisation mumbo-jumbo that it is doing seems to be working. I am using&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>As of right now (06-01-2025), I am using <a href="https://cachyos.org/">Cachy OS</a>. I may be hallucinating it, but all of the Kernel Optimisation mumbo-jumbo that it is doing seems to be working. I am using</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Movies</title>
+      <link>https://casiowave.github.io/interests/movies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/interests/movies/</guid>
+      <description>All about movies that I enjoy</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/interests/movies/images/cinema.gif" type="" alt="music?"  /></p>
+<p>I am new to taking films <em>seriously</em>.</p>
+<p>Content coming up soon! Here are some links to my cinema related social media (they have nothing up yet) -</p>
+<ul>
+<li><a href="https://letterboxd.com/CasioWave/">Letterboxd</a></li>
+<li><a href="https://www.imdb.com/user/ur180174016">IMDb</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://casiowave.github.io/interests/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/interests/music/</guid>
+      <description>Stuff I listen to</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/interests/music/images/music.gif" type="" alt="music?"  /></p>
+<p>I don&rsquo;t have anything that I would like to put up here right now - so <a href="https://www.last.fm/user/CasioWave">here</a> is my last.fm, and <a href="https://rateyourmusic.com/~CasioWave">here</a> is my RYM. I hope to talk about the music that I listen to here, soon!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>https://casiowave.github.io/interests/philosophy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/interests/philosophy/</guid>
+      <description>Nothing to see here - yet</description>
+      <content:encoded><![CDATA[<p>Starting to read some, will probably have some content here at some (indeterminate) time in the future.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
