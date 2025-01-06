@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Philosophy on Diptanuj Sarkar</title>
-    <link>https://casiowave.github.io/tags/philosophy/</link>
+    <link>https://localhost:1313/tags/philosophy/</link>
     <description>Recent content in Philosophy on Diptanuj Sarkar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://casiowave.github.io/tags/philosophy/feed.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://localhost:1313/tags/philosophy/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coming soon!</title>
-      <link>https://casiowave.github.io/philosophy/</link>
+      <link>https://localhost:1313/philosophy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://casiowave.github.io/philosophy/</guid>
+      <guid>https://localhost:1313/philosophy/</guid>
       <description>The fish is not happy</description>
       <content:encoded><![CDATA[<p>Starting to read some, will probably have some content here at some (indeterminate) time in the future.</p>
 ]]></content:encoded>

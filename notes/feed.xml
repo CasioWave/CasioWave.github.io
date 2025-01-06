@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>I have written stuff on Diptanuj Sarkar</title>
-    <link>https://casiowave.github.io/notes/</link>
+    <link>https://localhost:1313/notes/</link>
     <description>Recent content in I have written stuff on Diptanuj Sarkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://casiowave.github.io/notes/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/notes/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Semester 4</title>
-      <link>https://casiowave.github.io/notes/2024/02/semester-4/</link>
+      <link>https://localhost:1313/notes/2024/02/semester-4/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://casiowave.github.io/notes/2024/02/semester-4/</guid>
+      <guid>https://localhost:1313/notes/2024/02/semester-4/</guid>
       <description>Good Luck</description>
       <content:encoded><![CDATA[<p>You can find all the notes (incomplete ones and lab notes included) uploaded here - <a href="https://github.com/CasioWave/Lecture-Notes/tree/main/Sem%204">link</a></p>
 <h2 id="end-semester-merged-notes">End Semester Merged Notes</h2>
@@ -40,29 +40,15 @@
     
     <item>
       <title>Semester 3</title>
-      <link>https://casiowave.github.io/notes/2024/01/semester-3/</link>
+      <link>https://localhost:1313/notes/2024/01/semester-3/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://casiowave.github.io/notes/2024/01/semester-3/</guid>
+      <guid>https://localhost:1313/notes/2024/01/semester-3/</guid>
       <description>Some lecture notes from Semester 3</description>
       <content:encoded><![CDATA[<p>Here are some of the lectures notes that I took in Semester 3.</p>
 <ul>
 <li><a href="/pdf/PH2101.pdf">PH2101: Waves and Oscillations</a> (Credits to Adrika and Piyush for filling in the parts that I missed)</li>
 </ul>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>A Note of Lorem Ipsum</title>
-      <link>https://casiowave.github.io/notes/2023/01/lorem-ipsum/</link>
-      <pubDate>Fri, 27 Jan 2023 00:15:38 +0800</pubDate>
-      
-      <guid>https://casiowave.github.io/notes/2023/01/lorem-ipsum/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Me non paenitet nullum festiviorem excogitasse ad hoc. Ambitioni dedisse scripsisse iudicaretur. Unam incolunt Belgae, aliam Aquitani, tertiam. Morbi fringilla convallis sapien, id pulvinar odio volutpat. A communi observantia non est recedendum.&lt;/p&gt;
-&lt;p&gt;Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae. Salutantibus vitae elit libero, a pharetra augue. Quam diu etiam furor iste tuus nos eludet? Fabio vel iudice vincam, sunt in culpa qui officia. Quam temere in vitiis, legem sancimus haerentia. Quisque ut dolor gravida, placerat libero vel, euismod.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Me non paenitet nullum festiviorem excogitasse ad hoc. Ambitioni dedisse scripsisse iudicaretur. Unam incolunt Belgae, aliam Aquitani, tertiam. Morbi fringilla convallis sapien, id pulvinar odio volutpat. A communi observantia non est recedendum.</p>
-<p>Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae. Salutantibus vitae elit libero, a pharetra augue. Quam diu etiam furor iste tuus nos eludet? Fabio vel iudice vincam, sunt in culpa qui officia. Quam temere in vitiis, legem sancimus haerentia. Quisque ut dolor gravida, placerat libero vel, euismod.</p>
-<p>Cum sociis natoque penatibus et magnis dis parturient. Curabitur blandit tempus ardua ridiculus sed magna. Salutantibus vitae elit libero, a pharetra augue.</p>
 ]]></content:encoded>
     </item>
     

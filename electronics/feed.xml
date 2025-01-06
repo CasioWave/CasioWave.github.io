@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Electrons are weird on Diptanuj Sarkar</title>
-    <link>https://casiowave.github.io/electronics/</link>
+    <link>https://localhost:1313/electronics/</link>
     <description>Recent content in Electrons are weird on Diptanuj Sarkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://casiowave.github.io/electronics/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/electronics/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Get Started!</title>
-      <link>https://casiowave.github.io/electronics/get-started/</link>
+      <link>https://localhost:1313/electronics/get-started/</link>
       <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://casiowave.github.io/electronics/get-started/</guid>
+      <guid>https://localhost:1313/electronics/get-started/</guid>
       <description>Some guidance for beginners</description>
-      <content:encoded><![CDATA[<p></p>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/electronics/get-started/images/get-started.gif" type="" alt="get-started"  /></p>
 <p>A collection of online (and offline) resources that, in my opinion, are ideal for anyone who wishes to start tinkering. The list is continually being updated as I encounter good resources out there in the wild.</p>
 <h1 id="general-websites">General Websites</h1>
 <p>Reference for guided tutorials, theory, project ideas, and news pertinent to the hobbyist electronics community.</p>

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Academic on Diptanuj Sarkar</title>
-    <link>https://casiowave.github.io/tags/academic/</link>
+    <link>https://localhost:1313/tags/academic/</link>
     <description>Recent content in Academic on Diptanuj Sarkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://casiowave.github.io/tags/academic/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/academic/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bubbles</title>
-      <link>https://casiowave.github.io/physics/</link>
+      <link>https://localhost:1313/physics/</link>
       <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://casiowave.github.io/physics/</guid>
+      <guid>https://localhost:1313/physics/</guid>
       <description>I (apparently) like physics - who figured?</description>
-      <content:encoded><![CDATA[<p></p>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/physics/images/science.gif" type="" alt="okabe rintaro"  /></p>
 <p>Here lies some low effort physics content.</p>
 ]]></content:encoded>
     </item>
     
     <item>
       <title>Semester 4</title>
-      <link>https://casiowave.github.io/notes/2024/02/semester-4/</link>
+      <link>https://localhost:1313/notes/2024/02/semester-4/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://casiowave.github.io/notes/2024/02/semester-4/</guid>
+      <guid>https://localhost:1313/notes/2024/02/semester-4/</guid>
       <description>Good Luck</description>
       <content:encoded><![CDATA[<p>You can find all the notes (incomplete ones and lab notes included) uploaded here - <a href="https://github.com/CasioWave/Lecture-Notes/tree/main/Sem%204">link</a></p>
 <h2 id="end-semester-merged-notes">End Semester Merged Notes</h2>
@@ -52,10 +52,10 @@
     
     <item>
       <title>I have written stuff</title>
-      <link>https://casiowave.github.io/notes/</link>
+      <link>https://localhost:1313/notes/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://casiowave.github.io/notes/</guid>
+      <guid>https://localhost:1313/notes/</guid>
       <description>&lt;p&gt;Here are some(?) of the lecture notes that I have taken. Hope these are of use to someone, someday.&lt;/p&gt;
 &lt;p&gt;As of now, there are notes from only my 4th semester. I plan on uploading the older ones soon!&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Here are some(?) of the lecture notes that I have taken. Hope these are of use to someone, someday.</p>
@@ -65,10 +65,10 @@
     
     <item>
       <title>Coming soon!</title>
-      <link>https://casiowave.github.io/philosophy/</link>
+      <link>https://localhost:1313/philosophy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://casiowave.github.io/philosophy/</guid>
+      <guid>https://localhost:1313/philosophy/</guid>
       <description>The fish is not happy</description>
       <content:encoded><![CDATA[<p>Starting to read some, will probably have some content here at some (indeterminate) time in the future.</p>
 ]]></content:encoded>
