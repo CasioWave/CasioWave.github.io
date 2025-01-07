@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IISER-K Course Material on Diptanuj Sarkar</title>
+    <link>https://casiowave.github.io/notes/iiser/</link>
+    <description>Recent content in IISER-K Course Material on Diptanuj Sarkar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://casiowave.github.io/notes/iiser/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Semester 4</title>
+      <link>https://casiowave.github.io/notes/2024/02/semester-4/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/notes/2024/02/semester-4/</guid>
+      <description>Good Luck</description>
+      <content:encoded><![CDATA[<p>You can find all the notes (incomplete ones and lab notes included) uploaded here - <a href="https://github.com/CasioWave/Lecture-Notes/tree/main/Sem%204">link</a></p>
+<h2 id="end-semester-merged-notes">End Semester Merged Notes</h2>
+<p>Only these are complete -</p>
+<ul>
+<li><a href="/pdf/ph2201-endsem.pdf">PH2201: Basic Quantum Mechanics</a></li>
+</ul>
+<h2 id="mid-semester-merged-notes">Mid Semester Merged Notes</h2>
+<p>I only have these notes complete, here they are -</p>
+<ul>
+<li><a href="/pdf/qmech-midsem-merge.pdf">PH2201: Basic Quantum Mechanics</a></li>
+<li><a href="/pdf/thermal-midsem-merge.pdf">PH2202: Thermal Physics</a></li>
+<li><a href="https://thepiedpieper.github.io/notes/">Adrika&rsquo;s Notes for LS2202</a></li>
+</ul>
+<h2 id="typed-up-notes">Typed up notes</h2>
+<p>These will only be updated until I realise I should just <em>stop</em> and study Analysis instead (I need to pass).</p>
+<ul>
+<li><a href="/pdf/PH2202-typ.pdf">PH2202: Thermal Physics</a></li>
+<li><a href="/pdf/PH2201-typ.pdf">PH2201: Basic Quantum Mechanics</a></li>
+</ul>
+<p>
+  <img loading="lazy" src="https://i.pinimg.com/originals/12/85/f9/1285f940365ae756e7ad8627511ff82c.gif" alt="cinco de mayo"  /></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Semester 3</title>
+      <link>https://casiowave.github.io/notes/2024/01/semester-3/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/notes/2024/01/semester-3/</guid>
+      <description>Some lecture notes from Semester 3</description>
+      <content:encoded><![CDATA[<p>Here are some of the lectures notes that I took in Semester 3.</p>
+<ul>
+<li><a href="/pdf/PH2101.pdf">PH2101: Waves and Oscillations</a> (Credits to Adrika and Piyush for filling in the parts that I missed)</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

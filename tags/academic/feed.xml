@@ -8,15 +8,32 @@
     <language>en</language>
     <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://casiowave.github.io/tags/academic/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bubbles</title>
+      <title>Physics</title>
       <link>https://casiowave.github.io/physics/</link>
       <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>https://casiowave.github.io/physics/</guid>
       <description>I (apparently) like physics - who figured?</description>
-      <content:encoded><![CDATA[<p><img loading="lazy" src="/physics/images/science.gif" type="" alt="okabe rintaro"  /></p>
-<p>Here lies some low effort physics content.</p>
+      <content:encoded><![CDATA[<figure class="center align-center">
+    <img src="/images/barchanCyllinder3.gif">
+    <figcaption><p>Conical Sand pile evolving into Barchan (and calving) due to turbulent flow around Cylinder - Modified Werner Model with 2D Lattice Boltzmann Solver</p></figcaption>
+</figure>
+<figure class="center align-center">
+    <img src="/images/bubbleRaft.gif">
+    <figcaption><p>Simulation of a bubble raft on a hexagonal lattice, with avalanches occuring (Self-Organised Criticality?)</p></figcaption>
+</figure>
+<p>Stuff I work on. Also contains notes from books and lectures.</p>
 ]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>IISER-K Course Material</title>
+      <link>https://casiowave.github.io/notes/iiser/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/notes/iiser/</guid>
+      <description>Collection of useful material from my courses here</description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -51,16 +68,26 @@
     </item>
     
     <item>
-      <title>I have written stuff</title>
+      <title>Notes, etc.</title>
       <link>https://casiowave.github.io/notes/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://casiowave.github.io/notes/</guid>
-      <description>&lt;p&gt;Here are some(?) of the lecture notes that I have taken. Hope these are of use to someone, someday.&lt;/p&gt;
-&lt;p&gt;As of now, there are notes from only my 4th semester. I plan on uploading the older ones soon!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Here are some(?) of the lecture notes that I have taken. Hope these are of use to someone, someday.</p>
-<p>As of now, there are notes from only my 4th semester. I plan on uploading the older ones soon!</p>
+      <description>&lt;p&gt;Here are some notes, exercise solution, and assorted materials from books that I have worked through, and from the courses that I have taken.&lt;/p&gt;
+&lt;p&gt;I hope these are of use to someone, someday.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Here are some notes, exercise solution, and assorted materials from books that I have worked through, and from the courses that I have taken.</p>
+<p>I hope these are of use to someone, someday.</p>
 ]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Book Notes</title>
+      <link>https://casiowave.github.io/notes/book-notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/notes/book-notes/</guid>
+      <description>Notes and exercises from books I worked through</description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -71,6 +98,24 @@
       <guid>https://casiowave.github.io/interests/philosophy/</guid>
       <description>Nothing to see here - yet</description>
       <content:encoded><![CDATA[<p>Starting to read some, will probably have some content here at some (indeterminate) time in the future.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>R. Shankar, Principles of QM</title>
+      <link>https://casiowave.github.io/notes/book-notes/shankar-principles-of-qm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/notes/book-notes/shankar-principles-of-qm/</guid>
+      <description>I really like this book - an excellent entrypoint for QM</description>
+      <content:encoded><![CDATA[<ul>
+<li>Chapter 1
+<ul>
+<li><a href="/pdf/shankar_mathmeth.pdf">Notes</a></li>
+<li>Exercises</li>
+</ul>
+</li>
+</ul>
 ]]></content:encoded>
     </item>
     

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Book Notes on Diptanuj Sarkar</title>
+    <link>https://casiowave.github.io/notes/book-notes/</link>
+    <description>Recent content in Book Notes on Diptanuj Sarkar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://casiowave.github.io/notes/book-notes/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R. Shankar, Principles of QM</title>
+      <link>https://casiowave.github.io/notes/book-notes/shankar-principles-of-qm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/notes/book-notes/shankar-principles-of-qm/</guid>
+      <description>I really like this book - an excellent entrypoint for QM</description>
+      <content:encoded><![CDATA[<ul>
+<li>Chapter 1
+<ul>
+<li><a href="/pdf/shankar_mathmeth.pdf">Notes</a></li>
+<li>Exercises</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
