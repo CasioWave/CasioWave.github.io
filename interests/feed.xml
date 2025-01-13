@@ -8,6 +8,23 @@
     <language>en</language>
     <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://casiowave.github.io/interests/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Philosophy</title>
+      <link>https://casiowave.github.io/interests/philosophy/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://casiowave.github.io/interests/philosophy/</guid>
+      <description>My thoughts on the philosophy that I have read</description>
+      <content:encoded><![CDATA[<p>The goal here is to put together a collection of (opinionated) notes on the stuff I read on my own, and at the Mohanpur Circle (Philosophy Circle at IISER Kolkata).
+I do not know much philosophy - so I will definitely be drawing from <a href="https://plato.stanford.edu/index.html">SEP</a> and other authoritative sources a lot.
+Finally, this is not meant to be helpful as a guide (though, I would be quite happy if it turns out to be one someday). Rather, it is something that I can commit to building as I go along learning more.
+This will be organised on the basis of readings, and branch from there based on hyperlinks.</p>
+<ul>
+<li>(Mohanpur Circle, 11-01-2025 - Present): <a href="https://casiowave.github.io/interests/philosophy/the-ethics-of-belief/">The Ethics of Belief, William K. Clifford</a> - Epistemology, Ethics, Philosophy of Mind, Psychology.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
       <title>Quiz</title>
       <link>https://casiowave.github.io/interests/quiz/</link>
       <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
@@ -70,17 +87,6 @@
       <description>Stuff I listen to</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/interests/music/images/music.gif" type="" alt="music?"  /></p>
 <p>I don&rsquo;t have anything that I would like to put up here right now - so <a href="https://www.last.fm/user/CasioWave">here</a> is my last.fm, and <a href="https://rateyourmusic.com/~CasioWave">here</a> is my RYM. I hope to talk about the music that I listen to here, soon!</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Philosophy</title>
-      <link>https://casiowave.github.io/interests/philosophy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://casiowave.github.io/interests/philosophy/</guid>
-      <description>Nothing to see here - yet</description>
-      <content:encoded><![CDATA[<p>Starting to read some, will probably have some content here at some (indeterminate) time in the future.</p>
 ]]></content:encoded>
     </item>
     

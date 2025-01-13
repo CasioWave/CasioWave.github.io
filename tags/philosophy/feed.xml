@@ -5,15 +5,22 @@
     <link>https://casiowave.github.io/tags/philosophy/</link>
     <description>Recent content in Philosophy on Diptanuj Sarkar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://casiowave.github.io/tags/philosophy/feed.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://casiowave.github.io/tags/philosophy/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Philosophy</title>
       <link>https://casiowave.github.io/interests/philosophy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://casiowave.github.io/interests/philosophy/</guid>
-      <description>Nothing to see here - yet</description>
-      <content:encoded><![CDATA[<p>Starting to read some, will probably have some content here at some (indeterminate) time in the future.</p>
+      <description>My thoughts on the philosophy that I have read</description>
+      <content:encoded><![CDATA[<p>The goal here is to put together a collection of (opinionated) notes on the stuff I read on my own, and at the Mohanpur Circle (Philosophy Circle at IISER Kolkata).
+I do not know much philosophy - so I will definitely be drawing from <a href="https://plato.stanford.edu/index.html">SEP</a> and other authoritative sources a lot.
+Finally, this is not meant to be helpful as a guide (though, I would be quite happy if it turns out to be one someday). Rather, it is something that I can commit to building as I go along learning more.
+This will be organised on the basis of readings, and branch from there based on hyperlinks.</p>
+<ul>
+<li>(Mohanpur Circle, 11-01-2025 - Present): <a href="https://casiowave.github.io/interests/philosophy/the-ethics-of-belief/">The Ethics of Belief, William K. Clifford</a> - Epistemology, Ethics, Philosophy of Mind, Psychology.</li>
+</ul>
 ]]></content:encoded>
     </item>
     
