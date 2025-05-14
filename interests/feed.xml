@@ -17,10 +17,7 @@
       <content:encoded><![CDATA[<p>The goal here is to put together a collection of (opinionated) notes on the stuff I read on my own, and at the Mohanpur Circle (Philosophy Circle at IISER Kolkata).
 I do not know much philosophy - so I will definitely be drawing from <a href="https://plato.stanford.edu/index.html">SEP</a> and other authoritative sources a lot.
 Finally, this is not meant to be helpful as a guide (though, I would be quite happy if it turns out to be one someday). Rather, it is something that I can commit to building as I go along learning more.
-This will be organised on the basis of readings, and branch from there based on hyperlinks.</p>
-<ul>
-<li>(Mohanpur Circle, 11-01-2025 - Present): <a href="https://casiowave.github.io/interests/philosophy/the-ethics-of-belief/">The Ethics of Belief, William K. Clifford</a> - Epistemology, Ethics, Philosophy of Mind, Psychology.</li>
-</ul>
+This will be organised on the basis of readings.</p>
 ]]></content:encoded>
     </item>
     
@@ -31,9 +28,11 @@ This will be organised on the basis of readings, and branch from there based on 
       
       <guid>https://casiowave.github.io/interests/quiz/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://casiowave.github.io/interests/quiz/images/quiz.png&#34; type=&#34;&#34; alt=&#34;Quizo&#34;  /&gt;&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ll be uploading any quiz sets I make - right here!&lt;/p&gt;</description>
+&lt;p&gt;I&amp;rsquo;ll be uploading any quiz sets I make - right here! (OMQs not included)&lt;/p&gt;
+&lt;p&gt;It seems increasingly unlikely that I will make any more, though.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/interests/quiz/images/quiz.png" type="" alt="Quizo"  /></p>
-<p>I&rsquo;ll be uploading any quiz sets I make - right here!</p>
+<p>I&rsquo;ll be uploading any quiz sets I make - right here! (OMQs not included)</p>
+<p>It seems increasingly unlikely that I will make any more, though.</p>
 ]]></content:encoded>
     </item>
     
@@ -56,8 +55,22 @@ This will be organised on the basis of readings, and branch from there based on 
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://casiowave.github.io/interests/software/</guid>
-      <description>&lt;p&gt;As of right now (06-01-2025), I am using &lt;a href=&#34;https://cachyos.org/&#34;&gt;Cachy OS&lt;/a&gt;. I may be hallucinating it, but all of the Kernel Optimisation mumbo-jumbo that it is doing seems to be working. I am using&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>As of right now (06-01-2025), I am using <a href="https://cachyos.org/">Cachy OS</a>. I may be hallucinating it, but all of the Kernel Optimisation mumbo-jumbo that it is doing seems to be working. I am using</p>
+      <description>&lt;p&gt;As of right now (06-01-2025), I am using &lt;a href=&#34;https://cachyos.org/&#34;&gt;Cachy OS&lt;/a&gt;. I may be hallucinating it, but all of the Kernel Optimisation mumbo-jumbo that it is doing seems to be working.&lt;/p&gt;
+&lt;p&gt;I am using Hyprland as my DE, with the end-4 dotfiles (I really can not be bothered to write my own). Everything looks good enough, and runs smooth on my potato laptop. All-in-all, the best laptop-based Linux experience that I have ever had.
+Don&amp;rsquo;t listen to the naysayers, &lt;em&gt;Arch does not break often if you do not fool around with it too much&lt;/em&gt;. The large repository of software on the AUR is really great.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>As of right now (06-01-2025), I am using <a href="https://cachyos.org/">Cachy OS</a>. I may be hallucinating it, but all of the Kernel Optimisation mumbo-jumbo that it is doing seems to be working.</p>
+<p>I am using Hyprland as my DE, with the end-4 dotfiles (I really can not be bothered to write my own). Everything looks good enough, and runs smooth on my potato laptop. All-in-all, the best laptop-based Linux experience that I have ever had.
+Don&rsquo;t listen to the naysayers, <em>Arch does not break often if you do not fool around with it too much</em>. The large repository of software on the AUR is really great.</p>
+<p>Of course, this is all fine till GNU Hurd Stable drops ( ^^ ).</p>
+<p>I highly recommend the Zed Text Editor as a valid alternative to VS Code. It is fast, light on memory, and has very little bloat. If you&rsquo;re into all the AI Copilot stuff, this is great for you too. It also has no telemetry (that I know of). You&rsquo;ll see a noticeable speedup if you use Typst or LaTeX on a regular basis.</p>
+<p>Other pieces of software that I adore:</p>
+<ul>
+<li>Hugo (What this website is made out of)</li>
+<li>Quartz (If you want to host an Obsidian Vault)</li>
+<li>Obsidian (Of course)</li>
+<li>Julia (I have never loved a plot this much)</li>
+<li><a href="https://github.com/TheSillyCoder/library-system">The objectively best library software system on this planet</a></li>
+</ul>
 ]]></content:encoded>
     </item>
     
@@ -87,6 +100,21 @@ This will be organised on the basis of readings, and branch from there based on 
       <description>Stuff I listen to</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/interests/music/images/music.gif" type="" alt="music?"  /></p>
 <p>I don&rsquo;t have anything that I would like to put up here right now - so <a href="https://www.last.fm/user/CasioWave">here</a> is my last.fm, and <a href="https://rateyourmusic.com/~CasioWave">here</a> is my RYM. I hope to talk about the music that I listen to here, soon!</p>
+<p>I mainly fixate on &ldquo;abrasive&rdquo; music. Not many people like that stuff, and that is alright. If you want to try out (or if you are already familiar with) this type of &ldquo;music&rdquo;, I can recommend two things you can do to become a snobbish RYM-core fanatic like me -</p>
+<ul>
+<li><a href="https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/">The RYM Boxsets</a>: This is where I go to explore. Curated lists of important albums for every conceivable (and not conceivable) music movement in history. They even have Spotify playlists sometimes!</li>
+<li>Keep up with the new stuff!
+<ul>
+<li>(Option 1: You do not worship Radiohead and/or Fishmans) <a href="https://www.albumoftheyear.org/ratings/6-highest-rated/2025/1">AOTY Charts</a>: I generally find this chart to be a bit more&hellip; open to diverse tastes.</li>
+<li>(Option 2: You have a <em>In the Aeroplane Over The Sea</em> t-shirt, like me) <a href="https://rateyourmusic.com/charts/">RYM Charts</a>: Not as diverse, but pretty good. Be prepared to be looked down upon, though.</li>
+<li>You could read Pitchfork, but please do not.</li>
+</ul>
+</li>
+</ul>
+<h2 id="a-tiny-suggestion">A tiny suggestion</h2>
+<p>If you really like listening to music, please try getting yourself an IEM (In Ear Monitors). They are criminally underrated in India, though they do seem to be catching on. For the same price (a little more) as your usual, run-of-the-mill Boat/Sony/etc. headphone, you get a <strong>vastly</strong> improved sound. Seriously - once I listened to <em>Diana</em> by Comus on my KZ ZS10 Pros for the first time, I never looked back. They are a solid investment too, as most IEMs are built pretty sturdy.</p>
+<p>Also, if you are into &ldquo;rare&rdquo; music, please look up Soulseek. Ensure you can run P2P over your network beforehand, though.</p>
+<p>That&rsquo;s about it!</p>
 ]]></content:encoded>
     </item>
     

@@ -27,10 +27,7 @@
       <content:encoded><![CDATA[<p>The goal here is to put together a collection of (opinionated) notes on the stuff I read on my own, and at the Mohanpur Circle (Philosophy Circle at IISER Kolkata).
 I do not know much philosophy - so I will definitely be drawing from <a href="https://plato.stanford.edu/index.html">SEP</a> and other authoritative sources a lot.
 Finally, this is not meant to be helpful as a guide (though, I would be quite happy if it turns out to be one someday). Rather, it is something that I can commit to building as I go along learning more.
-This will be organised on the basis of readings, and branch from there based on hyperlinks.</p>
-<ul>
-<li>(Mohanpur Circle, 11-01-2025 - Present): <a href="https://casiowave.github.io/interests/philosophy/the-ethics-of-belief/">The Ethics of Belief, William K. Clifford</a> - Epistemology, Ethics, Philosophy of Mind, Psychology.</li>
-</ul>
+This will be organised on the basis of readings.</p>
 ]]></content:encoded>
     </item>
     
@@ -89,8 +86,7 @@ This will be organised on the basis of readings, and branch from there based on 
 <li><a href="https://github.com/CasioWave/Lecture-Notes/blob/main/sem-6/MA3206-Statistics-I/Week%203-comp.pdf">Week 3</a></li>
 <li><a href="https://github.com/CasioWave/Lecture-Notes/blob/main/sem-6/MA3206-Statistics-I/Week%204-comp.pdf">Week 4</a></li>
 </ul>
-<p>Maybe I will someday solve assignments. When that day arrives, I prophesize that another day will arrive. This way, astute observer, I have not prophesized much at all.
-Neither have I solved any assignments, for that matter.</p>
+<p>As things stand, these are not complete (of course, a semester does not last only 4 weeks). I will eventually get around to posting the rest of my notes sometime.</p>
 ]]></content:encoded>
     </item>
     
@@ -109,7 +105,7 @@ Neither have I solved any assignments, for that matter.</p>
     <img src="/images/bubbleRaft.gif">
     <figcaption><p>Simulation of a bubble raft on a hexagonal lattice, with avalanches occuring (Self-Organised Criticality?)</p></figcaption>
 </figure>
-<p>Stuff I work on. Also contains notes from books and lectures.</p>
+<p>Contains general musings (?) related to Physics. Notes from courses/books and the like are&hellip; being prepared. No idea when I&rsquo;ll be done with it, though.</p>
 ]]></content:encoded>
     </item>
     
@@ -150,10 +146,10 @@ Neither have I solved any assignments, for that matter.</p>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://casiowave.github.io/notes/</guid>
-      <description>&lt;p&gt;Here are some notes, exercise solution, and assorted materials from books that I have worked through, and from the courses that I have taken.&lt;/p&gt;
-&lt;p&gt;I hope these are of use to someone, someday.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Here are some notes, exercise solution, and assorted materials from books that I have worked through, and from the courses that I have taken.</p>
-<p>I hope these are of use to someone, someday.</p>
+      <description>&lt;p&gt;I am in the process of putting my modest collection of notes in Physics, Mathematics, and Computation into an ordered site. Meanwhile, I have some notes hosted here.&lt;/p&gt;
+&lt;p&gt;I also try to put stuff from Coursework at IISER-K here. If you are a fellow student at IISER-K, please do refer to the &lt;a href=&#34;&#34;&gt;Library&amp;rsquo;s PYQ catalog&lt;/a&gt; or Centre for Career Development&amp;rsquo;s Google Drive of material (ask around for the drive link) for (a lot) more.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I am in the process of putting my modest collection of notes in Physics, Mathematics, and Computation into an ordered site. Meanwhile, I have some notes hosted here.</p>
+<p>I also try to put stuff from Coursework at IISER-K here. If you are a fellow student at IISER-K, please do refer to the <a href="">Library&rsquo;s PYQ catalog</a> or Centre for Career Development&rsquo;s Google Drive of material (ask around for the drive link) for (a lot) more.</p>
 ]]></content:encoded>
     </item>
     

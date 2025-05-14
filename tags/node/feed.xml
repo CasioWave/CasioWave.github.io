@@ -13,8 +13,9 @@
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://casiowave.github.io/interests/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
+      <description>&lt;p&gt;Some things I care about.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Some things I care about.</p>
+]]></content:encoded>
     </item>
     
   </channel>

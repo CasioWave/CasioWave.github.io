@@ -13,8 +13,9 @@
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://casiowave.github.io/interests/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
+      <description>&lt;p&gt;Some things I care about.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Some things I care about.</p>
+]]></content:encoded>
     </item>
     
     <item>
@@ -24,9 +25,11 @@
       
       <guid>https://casiowave.github.io/interests/quiz/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://casiowave.github.io/interests/quiz/images/quiz.png&#34; type=&#34;&#34; alt=&#34;Quizo&#34;  /&gt;&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ll be uploading any quiz sets I make - right here!&lt;/p&gt;</description>
+&lt;p&gt;I&amp;rsquo;ll be uploading any quiz sets I make - right here! (OMQs not included)&lt;/p&gt;
+&lt;p&gt;It seems increasingly unlikely that I will make any more, though.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/interests/quiz/images/quiz.png" type="" alt="Quizo"  /></p>
-<p>I&rsquo;ll be uploading any quiz sets I make - right here!</p>
+<p>I&rsquo;ll be uploading any quiz sets I make - right here! (OMQs not included)</p>
+<p>It seems increasingly unlikely that I will make any more, though.</p>
 ]]></content:encoded>
     </item>
     
@@ -117,7 +120,7 @@
 <p>You&rsquo;ll find me hoarding these books at the Library most of the time, but I&rsquo;m willing to share.</p>
 <ul>
 <li>
-<p><em>The Art of Electronics</em> - Paul Horowitz, Winfield Hill: Highly recommended read. Our library has a copy, <a href="http://lib.iiserkol.ac.in:8080/lib/item?id=chamo:7869&amp;theme=iiserk">here</a>.</p>
+<p><em>The Art of Electronics</em> - Paul Horowitz, Winfield Hill: Highly recommended read. Our library has a copy, <a href="http://lib.iiserkol.ac.in:8080/lib/item?id=chamo:7869&amp;theme=iiserk">here</a>. Also, check out <em>Learning The Art of Electronics</em>, a great hands-on lab course designed around the book. Buy the components (they&rsquo;re cheap!) and try it out yourself. <em>The Art of Electronics: X Chapters</em> is an advanced book containing all the topics that could not be fit into the original. I can&rsquo;t really vouch for or against it - it mostly remains beyond my powers of comprehension. <strong>These are the best books I have seen for self-learning electronics.</strong></p>
 </li>
 <li>
 <p><em>Electronic Principles</em> - Albert Paul Malvino, David J. Bates: Standard textbook on all things electronics - and for good reason. Library copy <a href="http://lib.iiserkol.ac.in:8080/lib/item?id=chamo:808&amp;theme=iiserk">here</a>.</p>
@@ -180,6 +183,21 @@ Looking forward to an active hobbyist electronics community on campus :)</p>
       <description>Stuff I listen to</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/interests/music/images/music.gif" type="" alt="music?"  /></p>
 <p>I don&rsquo;t have anything that I would like to put up here right now - so <a href="https://www.last.fm/user/CasioWave">here</a> is my last.fm, and <a href="https://rateyourmusic.com/~CasioWave">here</a> is my RYM. I hope to talk about the music that I listen to here, soon!</p>
+<p>I mainly fixate on &ldquo;abrasive&rdquo; music. Not many people like that stuff, and that is alright. If you want to try out (or if you are already familiar with) this type of &ldquo;music&rdquo;, I can recommend two things you can do to become a snobbish RYM-core fanatic like me -</p>
+<ul>
+<li><a href="https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/">The RYM Boxsets</a>: This is where I go to explore. Curated lists of important albums for every conceivable (and not conceivable) music movement in history. They even have Spotify playlists sometimes!</li>
+<li>Keep up with the new stuff!
+<ul>
+<li>(Option 1: You do not worship Radiohead and/or Fishmans) <a href="https://www.albumoftheyear.org/ratings/6-highest-rated/2025/1">AOTY Charts</a>: I generally find this chart to be a bit more&hellip; open to diverse tastes.</li>
+<li>(Option 2: You have a <em>In the Aeroplane Over The Sea</em> t-shirt, like me) <a href="https://rateyourmusic.com/charts/">RYM Charts</a>: Not as diverse, but pretty good. Be prepared to be looked down upon, though.</li>
+<li>You could read Pitchfork, but please do not.</li>
+</ul>
+</li>
+</ul>
+<h2 id="a-tiny-suggestion">A tiny suggestion</h2>
+<p>If you really like listening to music, please try getting yourself an IEM (In Ear Monitors). They are criminally underrated in India, though they do seem to be catching on. For the same price (a little more) as your usual, run-of-the-mill Boat/Sony/etc. headphone, you get a <strong>vastly</strong> improved sound. Seriously - once I listened to <em>Diana</em> by Comus on my KZ ZS10 Pros for the first time, I never looked back. They are a solid investment too, as most IEMs are built pretty sturdy.</p>
+<p>Also, if you are into &ldquo;rare&rdquo; music, please look up Soulseek. Ensure you can run P2P over your network beforehand, though.</p>
+<p>That&rsquo;s about it!</p>
 ]]></content:encoded>
     </item>
     
