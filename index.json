@@ -1,0 +1,231 @@
+
+{
+    "nodes": [{
+                "id": "80d3ef8f405a67bd5db0c60dffbff632",
+                "title": "Research Project 1: Pulsed Magnet Lab",
+                "permalink": "https://casiowave.github.io/physics/rp1/",
+                "type": "post"
+            },{
+                "id": "f217d6efc2eb6ef5d6dd0cd5c8d925dd",
+                "title": "The Ethics of Belief, William K. Clifford",
+                "permalink": "https://casiowave.github.io/interests/philosophy/the-ethics-of-belief/",
+                "type": "post"
+            },{
+                "id": "2ab9a583c7561095f4e57be9708ebc43",
+                "title": "Barchan Dunes interacting with Obstacles",
+                "permalink": "https://casiowave.github.io/physics/barchan/",
+                "type": "post"
+            },{
+                "id": "2fd6a5c9ce507febff847d9aba56d846",
+                "title": "Interesting Physics Links",
+                "permalink": "https://casiowave.github.io/physics/interesting-links/",
+                "type": "post"
+            },{
+                "id": "71d969c502ff5ea2d9153fd6dc4f45ed",
+                "title": "Semester 3",
+                "permalink": "https://casiowave.github.io/notes/iiser/semester-3/",
+                "type": "post"
+            },{
+                "id": "7b234b5744ad20033bedae73f8a8bc98",
+                "title": "Euler-Lagrange equations: A derivation",
+                "permalink": "https://casiowave.github.io/physics/euler-lagrange/",
+                "type": "post"
+            },{
+                "id": "32fc005f9fafae99218aec4dbd5ab922",
+                "title": "Archive",
+                "permalink": "https://casiowave.github.io/archives/",
+                "type": "post"
+            },{
+                "id": "eff0a592bc237bd1e79eb24bb11dd74b",
+                "title": "Notes Archives",
+                "permalink": "https://casiowave.github.io/notes/archives/",
+                "type": "post"
+            },{
+                "id": "4953bf99d7018c161b1b361cb25f1331",
+                "title": "Search",
+                "permalink": "https://casiowave.github.io/search/",
+                "type": "post"
+            },
+                        {
+                            "id": "categories-academic",
+                            "title": "Academic",
+                            "permalink": "https://casiowave.github.io/categories/academic/",
+                            "type": "categories"
+                        },
+                        {
+                            "id": "categories-projects",
+                            "title": "Projects",
+                            "permalink": "https://casiowave.github.io/categories/projects/",
+                            "type": "categories"
+                        },
+                        {
+                            "id": "tags-academic",
+                            "title": "Academic",
+                            "permalink": "https://casiowave.github.io/tags/academic/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-course",
+                            "title": "Course",
+                            "permalink": "https://casiowave.github.io/tags/course/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-epistemology",
+                            "title": "Epistemology",
+                            "permalink": "https://casiowave.github.io/tags/epistemology/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-ethics",
+                            "title": "Ethics",
+                            "permalink": "https://casiowave.github.io/tags/ethics/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-euler-lagrange",
+                            "title": "Euler-Lagrange",
+                            "permalink": "https://casiowave.github.io/tags/euler-lagrange/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-hobby",
+                            "title": "Hobby",
+                            "permalink": "https://casiowave.github.io/tags/hobby/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-interests",
+                            "title": "Interests",
+                            "permalink": "https://casiowave.github.io/tags/interests/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-node",
+                            "title": "Node",
+                            "permalink": "https://casiowave.github.io/tags/node/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-notes",
+                            "title": "Notes",
+                            "permalink": "https://casiowave.github.io/tags/notes/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-philosophy",
+                            "title": "Philosophy",
+                            "permalink": "https://casiowave.github.io/tags/philosophy/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-philosophy-of-mind",
+                            "title": "Philosophy-of-Mind",
+                            "permalink": "https://casiowave.github.io/tags/philosophy-of-mind/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-physics",
+                            "title": "Physics",
+                            "permalink": "https://casiowave.github.io/tags/physics/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-project",
+                            "title": "Project",
+                            "permalink": "https://casiowave.github.io/tags/project/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-psychology",
+                            "title": "Psychology",
+                            "permalink": "https://casiowave.github.io/tags/psychology/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-qm",
+                            "title": "QM",
+                            "permalink": "https://casiowave.github.io/tags/qm/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-quantum",
+                            "title": "Quantum",
+                            "permalink": "https://casiowave.github.io/tags/quantum/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-resources",
+                            "title": "Resources",
+                            "permalink": "https://casiowave.github.io/tags/resources/",
+                            "type": "tags"
+                        },
+    ],
+    "links": [
+            
+                    {
+                        "source": "80d3ef8f405a67bd5db0c60dffbff632",
+                        "target": "categories-projects",
+                    },
+                    {
+                        "source": "80d3ef8f405a67bd5db0c60dffbff632",
+                        "target": "tags-physics",
+                    },
+                    {
+                        "source": "80d3ef8f405a67bd5db0c60dffbff632",
+                        "target": "tags-course",
+                    },
+            
+                    {
+                        "source": "f217d6efc2eb6ef5d6dd0cd5c8d925dd",
+                        "target": "tags-ethics",
+                    },
+                    {
+                        "source": "f217d6efc2eb6ef5d6dd0cd5c8d925dd",
+                        "target": "tags-philosophy-of-mind",
+                    },
+                    {
+                        "source": "f217d6efc2eb6ef5d6dd0cd5c8d925dd",
+                        "target": "tags-psychology",
+                    },
+                    {
+                        "source": "f217d6efc2eb6ef5d6dd0cd5c8d925dd",
+                        "target": "tags-epistemology",
+                    },
+            
+                    {
+                        "source": "2ab9a583c7561095f4e57be9708ebc43",
+                        "target": "categories-projects",
+                    },
+                    {
+                        "source": "2ab9a583c7561095f4e57be9708ebc43",
+                        "target": "tags-project",
+                    },
+            
+                    {
+                        "source": "2fd6a5c9ce507febff847d9aba56d846",
+                        "target": "categories-academic",
+                    },
+                    {
+                        "source": "2fd6a5c9ce507febff847d9aba56d846",
+                        "target": "tags-physics",
+                    },
+                    {
+                        "source": "2fd6a5c9ce507febff847d9aba56d846",
+                        "target": "tags-resources",
+                    },
+            
+                    {
+                        "source": "71d969c502ff5ea2d9153fd6dc4f45ed",
+                        "target": "tags-notes",
+                    },
+            
+                    {
+                        "source": "7b234b5744ad20033bedae73f8a8bc98",
+                        "target": "tags-euler-lagrange",
+                    },
+            
+            
+            
+    ],
+}

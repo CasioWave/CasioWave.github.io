@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" >
+  <channel>
+    <title>Projects on </title>
+    <link>https://casiowave.github.io/categories/projects/</link>
+    <description>Recent Posts in Projects on </description>
+    <generator>Hugo 0.156.0</generator>
+    <language>en-us</language>
+    <managingEditor>diptanuj.ds@gmail.com (Diptanuj Sarkar)</managingEditor>
+    <webMaster>diptanuj.ds@gmail.com (Diptanuj Sarkar)</webMaster>
+    <lastBuildDate>Mon, 23 Feb 2026 05:53:26 +0530</lastBuildDate>
+    <atom:link href="https://casiowave.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Project 1: Pulsed Magnet Lab</title>
+      <link>https://casiowave.github.io/physics/rp1/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <author>diptanuj.ds@gmail.com (Diptanuj Sarkar)</author>
+      <dc:creator>Diptanuj Sarkar</dc:creator>
+      <guid>https://casiowave.github.io/physics/rp1/</guid>
+      <description>Project report for my RP-1 course at the Pulsed Magnet Lab</description>
+      <content:encoded>&lt;p&gt;Here is my comprehensive project report for RP-1 (a 4th year DPS Course at IISER-K). I worked under the supervision of Prof. Bhavosh Bansal on Photoluminescence Spectroscopy under Pulsed Magnetic Fields.&lt;/p&gt;&#xA;&lt;div id=&#34;adobe-dc-view&#34; style=&#34;height: 1000px&#34;&gt;&lt;/div&gt;&#xA;&#xA;&lt;script src=&#34;https://acrobatservices.adobe.com/view-sdk/viewer.js&#34;&gt;&lt;/script&gt;&#xA;&#xA;&lt;script type=&#34;text/javascript&#34;&gt;&#xA;    document.addEventListener(&#34;adobe_dc_view_sdk.ready&#34;, function () {&#xA;        var adobeDCView = new AdobeDC.View({&#xA;            clientId: &#34;c82825ed4f584af9ab27434556c33d08&#34;,&#xA;            divId: &#34;adobe-dc-view&#34;,&#xA;        });&#xA;&#xA;        adobeDCView.previewFile({&#xA;            content: {&#xA;                location: {&#xA;                    url: &#34;https://casiowave.github.io/pdf/rp-1.pdf&#34;,&#xA;                },&#xA;            },&#xA;&#xA;            metaData: { fileName: &#34;rp-1.pdf&#34; },&#xA;        });&#xA;    });&#xA;&lt;/script&gt;&#xA;&#xA;</content:encoded>
+      <category>Projects</category>
+    </item>
+    <item>
+      <title>Barchan Dunes interacting with Obstacles</title>
+      <link>https://casiowave.github.io/physics/barchan/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <author>diptanuj.ds@gmail.com (Diptanuj Sarkar)</author>
+      <dc:creator>Diptanuj Sarkar</dc:creator>
+      <guid>https://casiowave.github.io/physics/barchan/</guid>
+      <description>Summer Research Project that I carried out under Prof. Rajesh Ganapathy at JNCASR, Bengaluru</description>
+      <content:encoded>&lt;p&gt;Here is the project report for the Project on Barchan Dunes that I carried out under the SRFP (Summer Research Fellowship Program) of the Indian Academy of Sciences, in the Summer of 2024.&lt;/p&gt;&#xA;&lt;p&gt;I know, my writing is not very good.&lt;/p&gt;&#xA;&lt;div id=&#34;adobe-dc-view&#34; style=&#34;height: 1000px&#34;&gt;&lt;/div&gt;&#xA;&#xA;&lt;script src=&#34;https://acrobatservices.adobe.com/view-sdk/viewer.js&#34;&gt;&lt;/script&gt;&#xA;&#xA;&lt;script type=&#34;text/javascript&#34;&gt;&#xA;    document.addEventListener(&#34;adobe_dc_view_sdk.ready&#34;, function () {&#xA;        var adobeDCView = new AdobeDC.View({&#xA;            clientId: &#34;c82825ed4f584af9ab27434556c33d08&#34;,&#xA;            divId: &#34;adobe-dc-view&#34;,&#xA;        });&#xA;&#xA;        adobeDCView.previewFile({&#xA;            content: {&#xA;                location: {&#xA;                    url: &#34;https://casiowave.github.io/pdf/without-code.pdf&#34;,&#xA;                },&#xA;            },&#xA;&#xA;            metaData: { fileName: &#34;without-code.pdf&#34; },&#xA;        });&#xA;    });&#xA;&lt;/script&gt;&#xA;&#xA;</content:encoded>
+      <category>Projects</category>
+    </item>
+  </channel>
+</rss>

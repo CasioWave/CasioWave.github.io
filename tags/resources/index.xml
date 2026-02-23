@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" >
+  <channel>
+    <title>Resources on </title>
+    <link>https://casiowave.github.io/tags/resources/</link>
+    <description>Recent Posts in Resources on </description>
+    <generator>Hugo 0.156.0</generator>
+    <language>en-us</language>
+    <managingEditor>diptanuj.ds@gmail.com (Diptanuj Sarkar)</managingEditor>
+    <webMaster>diptanuj.ds@gmail.com (Diptanuj Sarkar)</webMaster>
+    <lastBuildDate>Mon, 23 Feb 2026 05:53:26 +0530</lastBuildDate>
+    <atom:link href="https://casiowave.github.io/tags/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interesting Physics Links</title>
+      <link>https://casiowave.github.io/physics/interesting-links/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <author>diptanuj.ds@gmail.com (Diptanuj Sarkar)</author>
+      <dc:creator>Diptanuj Sarkar</dc:creator>
+      <guid>https://casiowave.github.io/physics/interesting-links/</guid>
+      <description>Some interesting links from around the internet</description>
+      <content:encoded>&lt;p&gt;I plan on collecting all the cool sites that I find, related to Physics of course, here.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;www.goodtheorist.science&#34;&gt;Gerard &amp;rsquo;t Hooft&amp;rsquo;s &amp;ldquo;How to become a good theoretical Physicist&amp;rdquo;&lt;/a&gt;: Legendary website, one of the few sites you can rely on for some guidance if you are self studying Physics. Contrast it with &lt;a href=&#34;https://webspace.science.uu.nl/~hooft101/theoristbad.html&#34; target=&#34;_blank&#34; rel=&#34;external noopener noreferrer nofollow&#34;&gt;&amp;rsquo;t Hooft&amp;rsquo;s &amp;ldquo;How to become a BAD theoretical Physicist&amp;rdquo;&lt;/a&gt;, if being a crank is what appeals to you. (Personally, I find the writing on the site a bit&amp;hellip; on the nose)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://kirkmcd.princeton.edu/examples/&#34; target=&#34;_blank&#34; rel=&#34;external noopener noreferrer nofollow&#34;&gt;K. McDonald&amp;rsquo;s Physics Examples&lt;/a&gt;: A rich, old-internet site with myriad resources pertaining to physics.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://physics.stackexchange.com/questions/12175/resource-recommendations&#34; target=&#34;_blank&#34; rel=&#34;external noopener noreferrer nofollow&#34;&gt;PSE: Book Recommendations&lt;/a&gt;: Physics StackExhange&amp;rsquo;s very own list of recommended books and resources.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://telescoper.blog/category/cute-problems/&#34; target=&#34;_blank&#34; rel=&#34;external noopener noreferrer nofollow&#34;&gt;In The Dark: Cute Problems&lt;/a&gt;: A very nice little blog with some nice questions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.damtp.cam.ac.uk/user/tong/teaching.html&#34; target=&#34;_blank&#34; rel=&#34;external noopener noreferrer nofollow&#34;&gt;Tong Lectures&lt;/a&gt;: The David Tong lecture notes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://scienceworld.wolfram.com/&#34; target=&#34;_blank&#34; rel=&#34;external noopener noreferrer nofollow&#34;&gt;Wolfram ScienceWorld&lt;/a&gt;: A cool website with a lot of historical information.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://quantummechanics.ucsd.edu/ph130a/130_notes/130_notes.html&#34; target=&#34;_blank&#34; rel=&#34;external noopener noreferrer nofollow&#34;&gt;UCSD Quantum Mechanics Notes&lt;/a&gt;: Equation heavy, but thorough Quantum Mechanics notes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ocw.mit.edu/search/?d=Physics&#34; target=&#34;_blank&#34; rel=&#34;external noopener noreferrer nofollow&#34;&gt;MIT OCW Physics&lt;/a&gt;: Of course&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</content:encoded>
+      <category>Academic</category>
+    </item>
+  </channel>
+</rss>

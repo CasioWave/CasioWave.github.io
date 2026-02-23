@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" >
+  <channel>
+    <title>Categories on </title>
+    <link>https://casiowave.github.io/categories/</link>
+    <description>Recent Posts in Categories on </description>
+    <generator>Hugo 0.156.0</generator>
+    <language>en-us</language>
+    <managingEditor>diptanuj.ds@gmail.com (Diptanuj Sarkar)</managingEditor>
+    <webMaster>diptanuj.ds@gmail.com (Diptanuj Sarkar)</webMaster>
+    <lastBuildDate>Mon, 23 Feb 2026 05:53:26 +0530</lastBuildDate>
+    <atom:link href="https://casiowave.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://casiowave.github.io/categories/projects/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <author>diptanuj.ds@gmail.com (Diptanuj Sarkar)</author>
+      <dc:creator>Diptanuj Sarkar</dc:creator>
+      <guid>https://casiowave.github.io/categories/projects/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>Academic</title>
+      <link>https://casiowave.github.io/categories/academic/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <author>diptanuj.ds@gmail.com (Diptanuj Sarkar)</author>
+      <dc:creator>Diptanuj Sarkar</dc:creator>
+      <guid>https://casiowave.github.io/categories/academic/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
+  </channel>
+</rss>

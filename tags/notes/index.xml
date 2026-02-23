@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" >
+  <channel>
+    <title>Notes on </title>
+    <link>https://casiowave.github.io/tags/notes/</link>
+    <description>Recent Posts in Notes on </description>
+    <generator>Hugo 0.156.0</generator>
+    <language>en-us</language>
+    <managingEditor>diptanuj.ds@gmail.com (Diptanuj Sarkar)</managingEditor>
+    <webMaster>diptanuj.ds@gmail.com (Diptanuj Sarkar)</webMaster>
+    <lastBuildDate>Mon, 23 Feb 2026 05:53:26 +0530</lastBuildDate>
+    <atom:link href="https://casiowave.github.io/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Semester 3</title>
+      <link>https://casiowave.github.io/notes/iiser/semester-3/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <author>diptanuj.ds@gmail.com (Diptanuj Sarkar)</author>
+      <dc:creator>Diptanuj Sarkar</dc:creator>
+      <guid>https://casiowave.github.io/notes/iiser/semester-3/</guid>
+      <description>Some lecture notes from Semester 3</description>
+      <content:encoded>&lt;p&gt;Here are some of the lectures notes that I took in Semester 3.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://casiowave.github.io/pdf/PH2101.pdf&#34;&gt;PH2101: Waves and Oscillations&lt;/a&gt; (Credits to Adrika and Piyush for filling in the parts that I missed)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</content:encoded>
+    </item>
+  </channel>
+</rss>
