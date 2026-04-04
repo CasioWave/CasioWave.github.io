@@ -4,11 +4,21 @@
     <title>Book Notes on </title>
     <link>https://casiowave.github.io/notes/book-notes/</link>
     <description>Recent Posts in Book Notes on </description>
-    <generator>Hugo 0.157.0</generator>
+    <generator>Hugo 0.159.1</generator>
     <language>en-us</language>
     <managingEditor>diptanuj.ds@gmail.com (Diptanuj Sarkar)</managingEditor>
     <webMaster>diptanuj.ds@gmail.com (Diptanuj Sarkar)</webMaster>
-    <lastBuildDate>Tue, 10 Mar 2026 22:20:28 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 22:53:34 +0530</lastBuildDate>
     <atom:link href="https://casiowave.github.io/notes/book-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R. Shankar, Principles of QM</title>
+      <link>https://casiowave.github.io/notes/book-notes/shankar-principles-of-qm/</link>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <author>diptanuj.ds@gmail.com (Diptanuj Sarkar)</author>
+      <dc:creator>Diptanuj Sarkar</dc:creator>
+      <guid>https://casiowave.github.io/notes/book-notes/shankar-principles-of-qm/</guid>
+      <description>I really like this book - an excellent entrypoint for QM</description>
+      <content:encoded>&lt;p&gt;At one point (i.e. on the train to Mohali, for IICM 2023) I decided to write down notes from Shankar&amp;rsquo;s extensive mathematical prerequisite chapter that prefaces &lt;em&gt;Principles of Quantum Mechanics&lt;/em&gt;. You can find it here - &lt;a href=&#34;https://casiowave.github.io/pdf/shankar_mathmeth.pdf&#34;&gt;Notes&lt;/a&gt;.&lt;/p&gt;&#xA;</content:encoded>
+    </item>
   </channel>
 </rss>

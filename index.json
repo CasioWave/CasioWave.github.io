@@ -1,9 +1,29 @@
 
 {
     "nodes": [{
+                "id": "745406fcb9bedfb5409c586573982b25",
+                "title": "Gluon Quiz '26",
+                "permalink": "https://casiowave.github.io/interests/quiz/gluon-quiz-26/",
+                "type": "post"
+            },{
+                "id": "93d0cbc5641f925947440476cf924b61",
+                "title": "R. Shankar, Principles of QM",
+                "permalink": "https://casiowave.github.io/notes/book-notes/shankar-principles-of-qm/",
+                "type": "post"
+            },{
+                "id": "db5108fc2d9d336aadce530d36d4eedf",
+                "title": "The Farewell Quiz",
+                "permalink": "https://casiowave.github.io/interests/quiz/farewell-quiz/",
+                "type": "post"
+            },{
                 "id": "80d3ef8f405a67bd5db0c60dffbff632",
                 "title": "Research Project 1: Pulsed Magnet Lab",
                 "permalink": "https://casiowave.github.io/physics/rp1/",
+                "type": "post"
+            },{
+                "id": "75385cc4b9e5c223301dc66f9d327f25",
+                "title": "Semester 6",
+                "permalink": "https://casiowave.github.io/iiser/semester-6/",
                 "type": "post"
             },{
                 "id": "f217d6efc2eb6ef5d6dd0cd5c8d925dd",
@@ -16,14 +36,19 @@
                 "permalink": "https://casiowave.github.io/physics/barchan/",
                 "type": "post"
             },{
+                "id": "4054581018528d7e3002e7c183bc3848",
+                "title": "Semester 4",
+                "permalink": "https://casiowave.github.io/iiser/semester-4/",
+                "type": "post"
+            },{
                 "id": "2fd6a5c9ce507febff847d9aba56d846",
                 "title": "Interesting Physics Links",
                 "permalink": "https://casiowave.github.io/physics/interesting-links/",
                 "type": "post"
             },{
-                "id": "71d969c502ff5ea2d9153fd6dc4f45ed",
+                "id": "1f4c3de8645ea582852962a56ab2ecac",
                 "title": "Semester 3",
-                "permalink": "https://casiowave.github.io/notes/iiser/semester-3/",
+                "permalink": "https://casiowave.github.io/iiser/semester-3/",
                 "type": "post"
             },{
                 "id": "7b234b5744ad20033bedae73f8a8bc98",
@@ -36,11 +61,6 @@
                 "permalink": "https://casiowave.github.io/archives/",
                 "type": "post"
             },{
-                "id": "eff0a592bc237bd1e79eb24bb11dd74b",
-                "title": "Notes Archives",
-                "permalink": "https://casiowave.github.io/notes/archives/",
-                "type": "post"
-            },{
                 "id": "4953bf99d7018c161b1b361cb25f1331",
                 "title": "Search",
                 "permalink": "https://casiowave.github.io/search/",
@@ -50,6 +70,12 @@
                             "id": "categories-academic",
                             "title": "Academic",
                             "permalink": "https://casiowave.github.io/categories/academic/",
+                            "type": "categories"
+                        },
+                        {
+                            "id": "categories-hobby",
+                            "title": "Hobby",
+                            "permalink": "https://casiowave.github.io/categories/hobby/",
                             "type": "categories"
                         },
                         {
@@ -113,12 +139,6 @@
                             "type": "tags"
                         },
                         {
-                            "id": "tags-philosophy",
-                            "title": "Philosophy",
-                            "permalink": "https://casiowave.github.io/tags/philosophy/",
-                            "type": "tags"
-                        },
-                        {
                             "id": "tags-philosophy-of-mind",
                             "title": "Philosophy-of-Mind",
                             "permalink": "https://casiowave.github.io/tags/philosophy-of-mind/",
@@ -143,15 +163,9 @@
                             "type": "tags"
                         },
                         {
-                            "id": "tags-qm",
-                            "title": "QM",
-                            "permalink": "https://casiowave.github.io/tags/qm/",
-                            "type": "tags"
-                        },
-                        {
-                            "id": "tags-quantum",
-                            "title": "Quantum",
-                            "permalink": "https://casiowave.github.io/tags/quantum/",
+                            "id": "tags-quiz",
+                            "title": "Quiz",
+                            "permalink": "https://casiowave.github.io/tags/quiz/",
                             "type": "tags"
                         },
                         {
@@ -162,6 +176,29 @@
                         },
     ],
     "links": [
+            
+                    {
+                        "source": "745406fcb9bedfb5409c586573982b25",
+                        "target": "categories-hobby",
+                    },
+                    {
+                        "source": "745406fcb9bedfb5409c586573982b25",
+                        "target": "tags-quiz",
+                    },
+            
+                    {
+                        "source": "93d0cbc5641f925947440476cf924b61",
+                        "target": "tags-physics",
+                    },
+            
+                    {
+                        "source": "db5108fc2d9d336aadce530d36d4eedf",
+                        "target": "categories-hobby",
+                    },
+                    {
+                        "source": "db5108fc2d9d336aadce530d36d4eedf",
+                        "target": "tags-quiz",
+                    },
             
                     {
                         "source": "80d3ef8f405a67bd5db0c60dffbff632",
@@ -175,6 +212,7 @@
                         "source": "80d3ef8f405a67bd5db0c60dffbff632",
                         "target": "tags-course",
                     },
+            
             
                     {
                         "source": "f217d6efc2eb6ef5d6dd0cd5c8d925dd",
@@ -202,6 +240,7 @@
                         "target": "tags-project",
                     },
             
+            
                     {
                         "source": "2fd6a5c9ce507febff847d9aba56d846",
                         "target": "categories-academic",
@@ -216,7 +255,7 @@
                     },
             
                     {
-                        "source": "71d969c502ff5ea2d9153fd6dc4f45ed",
+                        "source": "1f4c3de8645ea582852962a56ab2ecac",
                         "target": "tags-notes",
                     },
             
@@ -224,7 +263,6 @@
                         "source": "7b234b5744ad20033bedae73f8a8bc98",
                         "target": "tags-euler-lagrange",
                     },
-            
             
             
     ],
