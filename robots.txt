@@ -11,8 +11,11 @@ User-agent: Amzn-SearchBot
 User-agent: Amzn-User
 User-agent: Andibot
 User-agent: Anomura
+User-agent: ApifyBot
+User-agent: ApifyWebsiteContentCrawler
 User-agent: Applebot
 User-agent: Applebot-Extended
+User-agent: Aranet-SearchBot
 User-agent: Awario
 User-agent: AzureAI-SearchBot
 User-agent: Bravebot
@@ -40,12 +43,14 @@ User-agent: Diffbot
 User-agent: DuckAssistBot
 User-agent: Echobot Bot
 User-agent: EchoboxBot
+User-agent: ExaBot
 User-agent: FacebookBot
 User-agent: Factset_spyderbot
 User-agent: FirecrawlAgent
 User-agent: FriendlyCrawler
 User-agent: GPTBot
 User-agent: Gemini-Deep-Research
+User-agent: Google-Agent
 User-agent: Google-CloudVertexBot
 User-agent: Google-Extended
 User-agent: Google-Firebase
