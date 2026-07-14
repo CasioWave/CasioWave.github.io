@@ -1,6 +1,11 @@
 
 {
     "nodes": [{
+                "id": "80f65f31524a6850c16bf96aa448e664",
+                "title": "Things that are broken",
+                "permalink": "https://casiowave.github.io/interests/writing/things-that-are-broken/",
+                "type": "post"
+            },{
                 "id": "745406fcb9bedfb5409c586573982b25",
                 "title": "Gluon Quiz '26",
                 "permalink": "https://casiowave.github.io/interests/quiz/gluon-quiz-26/",
@@ -174,8 +179,19 @@
                             "permalink": "https://casiowave.github.io/tags/resources/",
                             "type": "tags"
                         },
+                        {
+                            "id": "tags-short-story",
+                            "title": "Short-Story",
+                            "permalink": "https://casiowave.github.io/tags/short-story/",
+                            "type": "tags"
+                        },
     ],
     "links": [
+            
+                    {
+                        "source": "80f65f31524a6850c16bf96aa448e664",
+                        "target": "tags-short-story",
+                    },
             
                     {
                         "source": "745406fcb9bedfb5409c586573982b25",
