@@ -292,6 +292,11 @@
     <changefreq>always</changefreq>
     </url>
   <url>
+    <loc>https://casiowave.github.io/tags/report/</loc>
+    
+    <changefreq>always</changefreq>
+    </url>
+  <url>
     <loc>https://casiowave.github.io/search/</loc>
     
     <changefreq>always</changefreq>

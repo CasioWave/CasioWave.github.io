@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <!-- head.html --><!-- meta.html -->
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Report on Fisher, Goldenfeld, and Quantum 2.0 | Diptanuj Sarkar</title>
+<meta name="author" content="[Diptanuj Sarkar]">
+<meta name="description" content="In this report, I tried to express my own opinions regarding all that I read over the Summer of 2026.
+">
+<meta name="keywords" content="report">
+<link rel="canonical" href="http://localhost:1313/posts/fisher-goldenfeld/">
+
+
+
+<link rel="shortcut icon" href="favicon.ico" />
+
+
+
+
+
+
+<!-- twitterCard -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Report on Fisher, Goldenfeld, and Quantum 2.0 | Diptanuj Sarkar" />
+<meta name="twitter:description" content="In this report, I tried to express my own opinions regarding all that I read over the Summer of 2026.
+" />
+
+<!-- openGraph -->
+<meta property="og:title" content="Report on Fisher, Goldenfeld, and Quantum 2.0 | Diptanuj Sarkar" />
+<meta property="og:description" content="In this report, I tried to express my own opinions regarding all that I read over the Summer of 2026.
+" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/posts/fisher-goldenfeld/" />
+<meta property="og:site_name" content="Diptanuj Sarkar" />
+
+
+    <!-- js.html -->
+<script src="http://localhost:1313/js/hugo-brewm.min.js" defer></script>
+
+<script src="http://localhost:1313/js/ising.js" defer></script><!-- css.html -->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Space+Grotesk:wght@300;400;500&display=swap"
+    rel="stylesheet">
+
+<link rel="stylesheet" href="http://localhost:1313/css/hugo-brewm.min.css">
+
+
+    
+<!-- css/inline.html -->
+<style>
+     
+    body {
+        max-width: 786px;
+        margin: auto;
+        padding: 2rem;
+    }
+
+    img {
+        max-width: 86vw;
+    }
+
+        {
+            {
+            - if $noIndent
+        }
+    }
+
+    * p {
+        text-indent: unset !important;
+    }
+
+        {
+            {
+            - end
+        }
+    }
+
+        {
+            {
+            - if $justifying
+        }
+    }
+
+    article p {
+        text-align: justify;
+    }
+
+        {
+            {
+            - end
+        }
+    }
+
+        {
+            {
+            - with .Resources.GetMatch "*.css"
+        }
+    }
+
+        {
+            {
+            .Content | safeCSS
+        }
+    }
+
+        {
+            {
+            - end
+        }
+    }
+</style>
+
+    
+    
+    
+        <!-- katex.html -->
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.25/dist/katex.min.js"
+    integrity="sha384-J+9dG2KMoiR9hqcFao0IBLwxt6zpcyN68IgwzsCSkbreXUjmNVRhPFTssqdSGjwQ" crossorigin="anonymous"
+    defer></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.25/dist/contrib/auto-render.min.js"
+    integrity="sha384-hCXGrW6PitJEwbkoStFjeJxv+fSOOQKOPbJxSfM6G5sWZjAyWhXiTIIAmQqnlLlh" crossorigin="anonymous"
+    onload="renderMathInElement(document.body);" defer></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        renderMathInElement(document.getElementById('main-article'), {
+            delimiters: [
+                { left: '$', right: '$', display: false },
+                { left: '$$', right: '$$', display: true },
+                { left: '\\(', right: '\\)', display: false },
+                { left: '\\[', right: '\\]', display: true },
+                { left: "\\begin{equation}", right: "\\end{equation}", display: true },
+                { left: "\\begin{align}", right: "\\end{align}", display: true },
+            ],
+            throwOnError: false
+        });
+    });
+</script><script defer src="https://cloud.umami.is/script.js" data-website-id="78dcbb93-e956-4f90-b027-4503073ac5b0"></script>
+
+</head>
+<body>
+    <!-- header.html -->
+<header class="pagewidth">
+    <div id="background-header" class="background" aria-hidden="true"></div>
+    
+    <nav aria-label="Bypass">
+        <a id="to-content" href="#content" aria-label="Skip to Main Content">
+            <span>Skip to Main Content</span>
+            <kbd class="key" aria-hidden="true" data-key="c"></kbd>
+            <span class="screening" aria-hidden="true"></span>
+        </a>
+    </nav>
+    
+    <!-- logo.html -->
+    <div id="logo">
+        <a href="http://localhost:1313/" aria-label="Diptanuj Sarkar" aria-description="Homepage">
+                <img id="logomark--dark" src="swim.gif" alt="Diptanuj Sarkar" />
+                <img id="logomark" src="swim.gif" alt="Diptanuj Sarkar" />
+        </a>
+        <hr class="hide"/>
+    </div>
+    
+    <details class="presentation" id="top-nav">
+        <summary class="on-deck">
+            <span class="t">Navigation</span>
+            <span class="menu-icon" role="presentation"></span>
+        </summary>
+        <nav tabindex="-1" aria-label="Top">
+            <!-- menu.html -->
+<details id="has-main-menu" class="presentation"  open>
+    <summary  class="hide" 
+        aria-label="Main Menu">
+        <span>Main Menu</span>
+    </summary>
+    
+    <nav id="main-menu" aria-label="Main Menu">
+        <ul class="l1  "
+            role="presentation" tabindex="-1">
+            
+
+<li role="presentation" >
+<a  class=on-deck href=http://localhost:1313/physics/>
+    
+    <span>
+        Physics</span>
+</a>
+</li>
+<li role="presentation" >
+<a  class=on-deck href=http://localhost:1313/notes/>
+    
+    <span>
+        Notes</span>
+</a>
+</li>
+<li role="presentation" >
+<details class="presentation js-details" name="on-deck"   >
+    <summary class="anchor  on-deck ">
+        <span >Interests</span>
+    </summary>
+    <ul class="l2  on-plank " role="presentation">
+        
+
+<li role="presentation" >
+<a  href=http://localhost:1313/interests/electronics/>
+    
+    <span>
+        Electronics</span>
+</a>
+</li>
+<li role="presentation" >
+<a  href=http://localhost:1313/interests/writing/>
+    
+    <span>
+        Writing</span>
+</a>
+</li>
+<li role="presentation" >
+<a  href=http://localhost:1313/interests/movies/>
+    
+    <span>
+        Movies</span>
+</a>
+</li>
+<li role="presentation" >
+<a  href=http://localhost:1313/interests/music/>
+    
+    <span>
+        Music</span>
+</a>
+</li>
+<li role="presentation" >
+<a  href=http://localhost:1313/interests/philosophy/>
+    
+    <span>
+        Philosophy</span>
+</a>
+</li>
+<li role="presentation" >
+<a  href=http://localhost:1313/interests/quiz/>
+    
+    <span>
+        Quiz</span>
+</a>
+</li>
+<li role="presentation" >
+<a  href=http://localhost:1313/interests/software/>
+    
+    <span>
+        Software</span>
+</a>
+</li>
+    </ul><div class="screening js-cpn" role="presentation" aria-hidden="true"></div>
+</details>
+</li>
+<li role="presentation" >
+<a  class=on-deck href=http://localhost:1313/about/>
+    
+    <span>
+        About</span>
+</a>
+</li>
+        </ul>
+    </nav>
+</details>
+            
+            <!-- menu.html -->
+            <!-- i18n.html -->
+
+        </nav>
+        <div id="top-nav-screen" class="screening js-cpn" role="presentation" aria-hidden="true"></div>
+        <hr class="hide"/>
+    </details>
+</header>
+    
+    <!-- [main] baseof.html -->
+    <main id="page"class="page"
+        >
+        <!-- main/header.html -->
+        <header class="pagewidth">
+                    <menu id="menu" class="srm"
+                        data-i18n-back="Go Back"
+                        data-i18n-print="Print"
+                        data-i18n-copy="Copy URL"
+                        data-i18n-copying="Copying...">
+                                <li>
+                                    <a id="navigatorShare" href="#mastodon" role="button" aria-label="Share">
+                                        <span class="t srt" role="tooltip">Share</span>
+                                    </a>
+                                </li>
+                    </menu>
+            <!-- nav.html -->
+<details class="presentation" aria-expanded="true" id="has-breadcrumb" open>
+    <summary id="breadcrumb" tabindex="-1">
+        <span>Breadcrumb</span>
+    </summary>
+        <nav aria-labelledby="breadcrumb">
+            <ul role="presentation" class="breadcrumb ">
+                    <!-- breadcrumb.html -->
+        <li>
+            <a href="http://localhost:1313/posts/" aria-current="true">Posts
+            </a>
+        </li>
+    <li>
+        <a href="" aria-current="page" tabindex="-1">Report on Fisher, Goldenfeld, and Quantum 2.0
+        </a>
+    </li>
+            </ul>
+        </nav>
+</details>
+            <hr class="hide"/>
+        </header>
+        <div id="top" role="presentation">
+            
+        </div>
+        
+    <article id="main-article" class="pagewidth sf"
+        role="document" aria-labelledby="title"
+            data-pagefind-ignore="all">
+        <header aria-labelledby="title">
+            <!-- title.html -->
+        <h1 id="title"
+            data-bionRead-safe
+            >Report on Fisher, Goldenfeld, and Quantum 2.0</h1>
+        </header>
+        <!-- audio.html -->
+        <section id="content" class="content " aria-labelledby="title" data-bionRead-safe>
+                <p>In this report, I tried to express my own opinions regarding all that I read over the Summer of 2026.</p>
+<div id="adobe-dc-view" style="height: 1000px"></div>
+
+<script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
+
+<script type="text/javascript">
+    document.addEventListener("adobe_dc_view_sdk.ready", function () {
+        var adobeDCView = new AdobeDC.View({
+            clientId: "c82825ed4f584af9ab27434556c33d08",
+            divId: "adobe-dc-view",
+        });
+
+        adobeDCView.previewFile({
+            content: {
+                location: {
+                    url: "https://casiowave.github.io/pdf/fisher-goldenfeld.pdf",
+                },
+            },
+
+            metaData: { fileName: "fisher-goldenfeld.pdf" },
+        });
+    });
+</script>
+
+
+        </section>
+    </article>
+        <div id="exclude" role="presentation">
+            <!-- excluded last block frome some RSS reader and browser reader mode -->
+            
+    <div class="pagewidth">
+        <hr />
+        <div id="contentinfo" role="contentinfo" data-pagefind-ignore="all">
+                <!-- nav.html -->
+<details class="presentation" aria-expanded="true" id="has-share" open>
+    <summary id="share" tabindex="-1">
+        <span>Share</span>
+    </summary>
+        <nav aria-labelledby="share">
+            <ul role="presentation" class="share srm">
+                    <!-- share.html -->
+    <li id="has-mastodon">
+        <!-- mastodon.html -->
+    <form class="form" id="mastodon" action="//sharetomastodon.github.io/" target="_blank" rel="noopener noreferrer">
+        <input id="mastodonTitle" type="hidden" name="title" value="Report on Fisher, Goldenfeld, and Quantum 2.0">
+        <input id="mastodonPermalink" type="hidden" name="url" value="http://localhost:1313/posts/fisher-goldenfeld/">
+        <input id="mastodonText" type="hidden" name="text" value="Report on Fisher, Goldenfeld, and Quantum 2.0 http://localhost:1313/posts/fisher-goldenfeld/" disabled>
+        <input id="mastodonInstance" type="url" class="ldots form__input" placeholder="Enter Mastodon instance (https://www.example.com)" aria-label="Mastodon instance URL">
+        <button class="form__button" type="submit" aria-label="Share on Mastodon">
+            <i class="icon mastodon sri" aria-hidden="true"></i>
+            <span class="t srt" role="tooltip">Share on Mastodon</span>
+        </button>
+    </form>
+    </li>
+    <li>
+        <a href="mailto:?subject=Report%20on%20Fisher%2c%20Goldenfeld%2c%20and%20Quantum%202.0&body=http%3a%2f%2flocalhost%3a1313%2fposts%2ffisher-goldenfeld%2f" role="button" aria-label="Share on Email">
+            <i class="email sri" aria-hidden="true"></i>
+            <span class="t srt" role="tooltip">Share on Email</span>
+        </a>
+    </li>
+    <li>
+        <a href="whatsapp://send?text=Report%20on%20Fisher%2c%20Goldenfeld%2c%20and%20Quantum%202.0%20http%3a%2f%2flocalhost%3a1313%2fposts%2ffisher-goldenfeld%2f" role="button" aria-label="Share on Whatsapp">
+            <i class="whatsapp sri" aria-hidden="true"></i>
+            <span class="t srt" role="tooltip">Share on Whatsapp</span>
+        </a>
+    </li>
+    <li>
+        <a rel="noopener noreferrer" target="_blank" href="https://telegram.me/share/url?text=Report%20on%20Fisher,%20Goldenfeld,%20and%20Quantum%202.0&amp;url=http://localhost:1313/posts/fisher-goldenfeld/" role="button"
+            aria-label="Share on Telegram in new tab">
+            <i class="telegram sri" aria-hidden="true"></i>
+            <span class="t srt" role="tooltip">Share on Telegram</span>
+        </a>
+    </li>
+    <li>
+        <a rel="noopener noreferrer" target="_blank" href="https://bsky.app/intent/compose?text=Report%20on%20Fisher,%20Goldenfeld,%20and%20Quantum%202.0&amp;url=http://localhost:1313/posts/fisher-goldenfeld/" role="button"
+            aria-label="Share on Bluesky in new tab">
+            <i class="bluesky sri" aria-hidden="true"></i>
+            <span class="t srt" role="tooltip">Share on Bluesky</span>
+        </a>
+    </li>
+    <li>
+        <a rel="noopener noreferrer" target="_blank" href="https://facebook.com/sharer/sharer.php?u=http://localhost:1313/posts/fisher-goldenfeld/" role="button"
+            aria-label="Share on Facebook in new tab">
+            <i class="facebook sri" aria-hidden="true"></i>
+            <span class="t srt" role="tooltip">Share on Facebook</span>
+        </a>
+    </li>
+    <li>
+        <a rel="noopener noreferrer" target="_blank" href="https://news.ycombinator.com/submitlink?u=http://localhost:1313/posts/fisher-goldenfeld/&amp;t=Report%20on%20Fisher,%20Goldenfeld,%20and%20Quantum%202.0" role="button"
+            aria-label="Share on Hackernews in new tab">
+            <i class="hackernews sri" aria-hidden="true"></i>
+            <span class="t srt" role="tooltip">Share on Hackernews</span>
+        </a>
+    </li>
+    <li>
+        <a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/posts/fisher-goldenfeld/&amp;title=Report%20on%20Fisher,%20Goldenfeld,%20and%20Quantum%202.0&amp;summary=Report%20on%20Fisher,%20Goldenfeld,%20and%20Quantum%202.0&amp;source=http://localhost:1313/posts/fisher-goldenfeld/" role="button"
+            aria-label="Share on Linkedin in new tab">
+            <i class="linkedin sri" aria-hidden="true"></i>
+            <span class="t srt" role="tooltip">Share on Linkedin</span>
+        </a>
+    </li>
+    <li>
+        <a rel="noopener noreferrer" target="_blank" href="https://pinterest.com/pin/create/button/?url=http://localhost:1313/posts/fisher-goldenfeld/&amp;media=http://localhost:1313/posts/fisher-goldenfeld/&amp;description=Report%20on%20Fisher,%20Goldenfeld,%20and%20Quantum%202.0" role="button"
+            aria-label="Share on Pinterest in new tab">
+            <i class="pinterest sri" aria-hidden="true"></i>
+            <span class="t srt" role="tooltip">Share on Pinterest</span>
+        </a>
+    </li>
+    <li>
+        <a rel="noopener noreferrer" target="_blank" href="https://reddit.com/submit/?url=http://localhost:1313/posts/fisher-goldenfeld/&amp;resubmit=true&amp;title=Report%20on%20Fisher,%20Goldenfeld,%20and%20Quantum%202.0" role="button"
+            aria-label="Share on Reddit in new tab">
+            <i class="reddit sri" aria-hidden="true"></i>
+            <span class="t srt" role="tooltip">Share on Reddit</span>
+        </a>
+    </li>
+    <li>
+        <a rel="noopener noreferrer" target="_blank" href="https://www.tumblr.com/widgets/share/tool?posttype=link&amp;title=Report%20on%20Fisher,%20Goldenfeld,%20and%20Quantum%202.0&amp;caption=Report%20on%20Fisher,%20Goldenfeld,%20and%20Quantum%202.0&amp;content=http://localhost:1313/posts/fisher-goldenfeld/&amp;canonicalUrl=http://localhost:1313/posts/fisher-goldenfeld/" role="button"
+            aria-label="Share on Tumblr in new tab">
+            <i class="tumblr sri" aria-hidden="true"></i>
+            <span class="t srt" role="tooltip">Share on Tumblr</span>
+        </a>
+    </li>
+    <li>
+        <a rel="noopener noreferrer" target="_blank" href="https://threads.net/intent/post?text=Report%20on%20Fisher,%20Goldenfeld,%20and%20Quantum%202.0&amp;url=http://localhost:1313/posts/fisher-goldenfeld/" role="button"
+            aria-label="Share on Threads in new tab">
+            <i class="threads sri" aria-hidden="true"></i>
+            <span class="t srt" role="tooltip">Share on Threads</span>
+        </a>
+    </li>
+    <li>
+        <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/intent/tweet/?text=Report%20on%20Fisher,%20Goldenfeld,%20and%20Quantum%202.0&amp;url=http://localhost:1313/posts/fisher-goldenfeld/" role="button"
+            aria-label="Share on Twitter in new tab">
+            <i class="twitter sri" aria-hidden="true"></i>
+            <span class="t srt" role="tooltip">Share on Twitter</span>
+        </a>
+    </li>
+    <li>
+        <a rel="noopener noreferrer" target="_blank" href="https://www.xing.com/app/user?op=share;url=http://localhost:1313/posts/fisher-goldenfeld/;title=Report%20on%20Fisher,%20Goldenfeld,%20and%20Quantum%202.0" role="button"
+            aria-label="Share on Xing in new tab">
+            <i class="xing sri" aria-hidden="true"></i>
+            <span class="t srt" role="tooltip">Share on Xing</span>
+        </a>
+    </li>
+            </ul>
+        </nav>
+</details>
+        </div>
+        
+            
+    </div>
+        <!-- main/footer.html -->
+    <hr class="hide">
+    <footer id="main-footer">
+            <div id="unified-footer"><p id="license">© 2026 Diptanuj Sarkar</p>
+                    <!-- menu.html -->
+<nav id="menu-footer" class="has-aria-label-top" aria-label="">
+    <ul role="presentation">
+        <li><a href="https://github.com/casiowave" aria-label="GitHub">
+                <i class="icon">github</i>
+                <span class="t" role="tooltip">GitHub</span>
+            </a>
+        </li>
+        <li><a href="https://www.last.fm/user/casiowave" aria-label="Last.fm">
+                <i class="icon">lastfm</i>
+                <span class="t" role="tooltip">Last.fm</span>
+            </a>
+        </li>
+        <li><a href="mailto:diptanuj.ds@gmail.com" aria-label="Email">
+                <i class="icon">email</i>
+                <span class="t" role="tooltip">Email</span>
+            </a>
+        </li>
+        <li><a href="https://rateyourmusic.com/~casiowave" aria-label="RYM">
+                <i class="icon">rym</i>
+                <span class="t" role="tooltip">RYM</span>
+            </a>
+        </li>
+    </ul>
+</nav>
+            </div>
+    </footer>
+        </div>
+    </main>
+    <!-- footer.html -->
+<footer id="body-footer" class="pagewidth">
+    <div id="background-footer" class="background hide" role="presentation" aria-hidden="true"></div>
+    <div id="focusMode"></div>
+    <!-- a11y.html --><details id="has-a11y" class="presentation js-details hide" name="on-deck" aria-haspopup="true"
+    aria-labelledby="has-a11y-summary" data-i18n-accessibility='Accessibility'
+    data-i18n-optimizeSR='Screen Reader Optimization' data-i18n-optimizeSRdesc='Optimize display and resources for screen reader users who navigate with a pointer device.'
+    data-i18n-colorSettings='Color Settings' data-i18n-darkMode='Dark Mode'
+    data-i18n-light='Light' data-i18n-dark='Dark' data-i18n-contrast='Contrast'
+    data-i18n-lessContrast='Low' data-i18n-moreContrast='High'
+    data-i18n-defaultContrast='Default' data-i18n-colorPalette='Color Palette'
+    data-i18n-defaultColor='Default' data-i18n-deuteranopia='Deuteranopia'
+    data-i18n-protanopia='Protanopia' data-i18n-tritanopia='Tritanopia'
+    data-i18n-monochrome='Monochrome' data-i18n-fontSize='Font Size'
+    data-i18n-baselineStretch='Baseline Stretch' data-i18n-OpenDyslexic='Use OpenDyslexic Font'
+    data-i18n-menuControls='Accessibility Menu Controls' data-i18n-simulateTemp='Simulate Temperature'
+    data-i18n-save='Save' data-i18n-reset='Reset' data-i18n-close='Close'
+    data-i18n-bionRead='BionRead Mode' data-i18n-focusMode='Focus Mode'
+    data-i18n-noLocalStorage='LocalStorage is not available in your browser. Settings won&#39;t be saved.'>
+</details>
+
+
+    <div id="useBionRead" class="sri"></div>
+    <!-- [top] bypass block -->
+    <nav aria-label="Bypass">
+        <a id="to-top" class="srm" href="#top" title="To Content Top" accesskey="c" aria-keyshortcuts="c" aria-label="To Content Top">
+            <span class="t srt">To Content Top</span>
+            <kbd class="key" aria-hidden="true" data-key="c"></kbd>
+        </a>
+    </nav>
+</footer>
+    
+    <!-- [post] single.html -->
+    <div id="bionReadSnapshot" hidden></div>
+    <!-- [background] baseof.html -->
+    <div id="background-body" role="presentation" aria-hidden="true"></div>
+</body>
+</html>
