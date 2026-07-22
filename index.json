@@ -1,6 +1,11 @@
 
 {
     "nodes": [{
+                "id": "7b0d1cad235a6a0efe1d1c122a510512",
+                "title": "Some reports from Summer 2026",
+                "permalink": "https://casiowave.github.io/physics/summer-2026/",
+                "type": "post"
+            },{
                 "id": "80f65f31524a6850c16bf96aa448e664",
                 "title": "Things that are broken",
                 "permalink": "https://casiowave.github.io/interests/writing/things-that-are-broken/",
@@ -132,6 +137,12 @@
                             "type": "tags"
                         },
                         {
+                            "id": "tags-ms-thesis",
+                            "title": "Ms-Thesis",
+                            "permalink": "https://casiowave.github.io/tags/ms-thesis/",
+                            "type": "tags"
+                        },
+                        {
                             "id": "tags-node",
                             "title": "Node",
                             "permalink": "https://casiowave.github.io/tags/node/",
@@ -187,6 +198,11 @@
                         },
     ],
     "links": [
+            
+                    {
+                        "source": "7b0d1cad235a6a0efe1d1c122a510512",
+                        "target": "tags-ms-thesis",
+                    },
             
                     {
                         "source": "80f65f31524a6850c16bf96aa448e664",
