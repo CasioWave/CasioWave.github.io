@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>diptanuj.ds@gmail.com (Diptanuj Sarkar)</managingEditor>
     <webMaster>diptanuj.ds@gmail.com (Diptanuj Sarkar)</webMaster>
-    <lastBuildDate>Wed, 22 Jul 2026 22:38:17 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 15:52:35 +0530</lastBuildDate>
     <atom:link href="https://casiowave.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ms-Thesis</title>
@@ -17,6 +17,16 @@
       <author>diptanuj.ds@gmail.com (Diptanuj Sarkar)</author>
       <dc:creator>Diptanuj Sarkar</dc:creator>
       <guid>https://casiowave.github.io/tags/ms-thesis/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>Report</title>
+      <link>https://casiowave.github.io/tags/report/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <author>diptanuj.ds@gmail.com (Diptanuj Sarkar)</author>
+      <dc:creator>Diptanuj Sarkar</dc:creator>
+      <guid>https://casiowave.github.io/tags/report/</guid>
       <description></description>
       <content:encoded></content:encoded>
     </item>
@@ -158,7 +168,6 @@
       <dc:creator>Diptanuj Sarkar</dc:creator>
       <guid>https://casiowave.github.io/tags/resources/</guid>
       <description></description>
-      <content:encoded></content:encoded>
     </item>
     <item>
       <title>Notes</title>
@@ -194,15 +203,6 @@
       <author>diptanuj.ds@gmail.com (Diptanuj Sarkar)</author>
       <dc:creator>Diptanuj Sarkar</dc:creator>
       <guid>https://casiowave.github.io/tags/quantum/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Report</title>
-      <link>https://casiowave.github.io/tags/report/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>diptanuj.ds@gmail.com (Diptanuj Sarkar)</author>
-      <dc:creator>Diptanuj Sarkar</dc:creator>
-      <guid>https://casiowave.github.io/tags/report/</guid>
       <description></description>
     </item>
   </channel>

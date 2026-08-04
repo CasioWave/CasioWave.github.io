@@ -7,6 +7,26 @@
     <changefreq>always</changefreq>
     </url>
   <url>
+    <loc>https://casiowave.github.io/tags/report/</loc>
+    <lastmod>2026-07-22T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    </url>
+  <url>
+    <loc>https://casiowave.github.io/physics/summer-2026/powell/</loc>
+    <lastmod>2026-07-22T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    </url>
+  <url>
+    <loc>https://casiowave.github.io/physics/summer-2026/fisher-goldenfeld/</loc>
+    <lastmod>2026-07-22T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    </url>
+  <url>
+    <loc>https://casiowave.github.io/physics/summer-2026/ross/</loc>
+    <lastmod>2026-07-22T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    </url>
+  <url>
     <loc>https://casiowave.github.io/physics/summer-2026/</loc>
     <lastmod>2026-07-22T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -288,11 +308,6 @@
     </url>
   <url>
     <loc>https://casiowave.github.io/tags/quantum/</loc>
-    
-    <changefreq>always</changefreq>
-    </url>
-  <url>
-    <loc>https://casiowave.github.io/tags/report/</loc>
     
     <changefreq>always</changefreq>
     </url>

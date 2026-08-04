@@ -72,7 +72,6 @@ User-agent: GoogleOther-Video
 User-agent: HenkBot
 User-agent: ICC-Crawler
 User-agent: ISSCyberRiskCrawler
-User-agent: IbouBot
 User-agent: ImagesiftBot
 User-agent: Kangaroo Bot
 User-agent: Kimi-User
